@@ -1,7 +1,7 @@
 # Collaboration log — public_10
 
 
-## 1. Author — draft (round 0, attempt 1) · 19.64 s · tokens 1612/1239
+## 1. Author — draft (round 0, attempt 1) · 11.85 s · tokens 1612/1280
 
 **Coordinator → Author:**
 
@@ -27,51 +27,57 @@
 <details><summary>outline</summary>
 
 1. **Three ideas first:**  
-   a. Baran discovers a missing treasure map in her school library and teams up with her friends to solve the mystery, using clues hidden in the library's books.  
-   b. Baran finds a riddle in a park, which leads her on a journey through the city with a series of clues that require her observational skills to solve.  
-   c. Baran's pet cat goes missing, and she follows a trail of clues left behind by her cat, leading her to unexpected places in the neighborhood.  
-   **Chosen idea:** The treasure map in the library stands out because it involves teamwork, the love for books, and the thrill of a mystery.  
-
-2. **Turning point:** At the climax, Baran realizes that the final clue is hidden in a book she has read before, which she remembers due to her love for reading and her keen observation skills.  
-
-3. **Hero:** Baran is the hero and actively solves the mystery by decoding the clues, showcasing her reasoning and observation skills.  
-
-4. **Interests:** Baran's love for puzzles and mysteries drives the plot, and her observational skills are essential for solving the clues.  
-
-5. **Must include:** A safe mystery, clues that are easy to understand, and a setting in a fictional city.  
-
-6. **Arc:** Opening introduces Baran in a cozy library → development of the mystery with clues → a concrete problem of the treasure's location → Baran's idea leading to the solution → resolution of finding the treasure and warm closing with friends.  
-
-7. **Spark:** A unique twist where each clue is linked to a different book in the library, making reading a part of the adventure.  
-
-8. **Length plan:** 12 paragraphs of 4-5 sentences each, totaling approximately 480 words.
+   a. Baran discovers a missing treasure map in her attic, leading her on an adventure to find hidden treasure in her city, uncovering clues with friends.  
+   b. Baran investigates a series of disappearing pets in her neighborhood, using her detective skills to uncover a clever plot involving a neighbor’s unexpected hobby.  
+   c. Baran finds an old diary containing riddles that lead to a secret location in the city, solving each riddle with the help of her friends. The first idea is chosen because it combines mystery with exploration in a safe environment, appealing to Baran's love for puzzles and maps.  
+ 
+2. **Turning point:**  
+   Baran realizes that the final clue requires her to think differently about the treasure's location, leading her to a place she never expected.  
+ 
+3. **Hero:**  
+   Baran is the hero, using her observation and reasoning to solve the clues and find the treasure.  
+ 
+4. **Interests:**  
+   Baran’s interests in puzzles and maps drive the plot as she deciphers clues and navigates through her city.  
+ 
+5. **Must include:**  
+   The story includes an engaging mystery, clues, and a treasure map.  
+ 
+6. **Arc:**  
+   Opening with Baran finding the map → development as she gathers clues → a concrete problem of finding the treasure → turning point of realizing the final clue → resolution of discovering the treasure → warm closing with her celebrating with friends.  
+ 
+7. **Spark:**  
+   The treasure is not gold or jewels but something that brings the community together.  
+ 
+8. **Length plan:**  
+   12 paragraphs, approximately 40 words each, fitting within 450-550 words.
 
 </details>
 
-**Title:** معمای نقشه باران  
-**Moral:** صداقت و استدلال می‌تواند مشکلات را حل کند.
+**Title:** ماجرای نقشه گمشده باران  
+**Moral:** صداقت و دقت در مشاهده می‌تواند پاسخ معماها را بیابد.
 
-> در یک شهر خیالی، باران، دختر نازنینی که عاشق معماها و نقشه‌ها بود، روزهایش را در کتابخانه می‌گذرانید. او همیشه دنبال یک ماجرای جدید بود و کتاب‌ها برایش دنیای شگفت‌انگیزی می‌ساختند. یک روز، وقتی در قفسه‌های کتابخانه قدم می‌زد، چشمش به کتابی قدیمی افتاد که پوشش آن پر از گرد و غبار بود.
+> یک روز آفتابی در شهر خیالی، باران در attic خانه‌اش گشت و گذار می‌کرد. ناگهان، او یک نقشه قدیمی را پیدا کرد که به نظر می‌رسید به یک گنج شخصی اشاره می‌کند. باران با دقت به نقشه نگاه کرد و فهمید که باید سرنخ‌ها را پیدا کند. او خیلی هیجان‌زده شد و تصمیم گرفت که این معما را حل کند.
 >
-> باران کتاب را برداشت و دید که درون آن، نقشه‌ای کوچک پنهان شده است. در بالای نقشه نوشته شده بود: «کلید گنج در کتاب‌هاست.» باران با شگفتی به نقشه نگاه کرد و تصمیم گرفت که این معما را حل کند. او فکر کرد شاید این نقشه به یک گنج واقعی منتهی شود.
+> باران به دوستانش، نرگس و امیر، زنگ زد. او با هیجان گفت: «من یک نقشه‌ی گنج پیدا کرده‌ام! بیایید تا با هم آن را پیدا کنیم!» نرگس و امیر بلافاصله قبول کردند و به خانه‌اش آمدند. آن‌ها نقشه را با جزئیات بررسی کردند و متوجه شدند که اولین سرنخ در پارک محلی است.
 >
-> باران به دوستانش، سارا و امیر، خبر داد و آنها با اشتیاق به کتابخانه آمدند. آنها هم مانند باران عاشق معما بودند و همواره برای حل معماها کنار هم بودند. باران به آنها گفت: «ما باید این نقشه را دنبال کنیم و ببینیم چه چیزی پیدا می‌کنیم!»
+> وقتی که به پارک رسیدند، باران به هر گوشه‌اش نگاه کرد. او دید که درختی بزرگ در مرکز پارک وجود دارد. بر روی نقشه، یک علامت خاص در کنار درخت بود. باران به دوستانش گفت: «بیایید به آن درخت برویم و ببینیم چه چیزی پیدا می‌کنیم!»
 >
-> آنها به دقت به نقشه نگاه کردند و متوجه شدند که هر نشانه‌ای به یک کتاب خاص اشاره دارد. باران با صدای بلند گفت: «اولین نشانه به کتاب داستان‌های افسانه‌ای اشاره دارد! بیایید برویم و آن را پیدا کنیم.» آنها با شوق به سمت قفسه کتاب‌ها رفتند و کتاب را پیدا کردند.
+> درخت باستانی و بزرگ، سایه‌ی زیبایی به پارک می‌بخشید. باران و دوستانش زیر درخت نشسته و شروع به کندن خاک کردند. ناگهان، آن‌ها یک جعبه کوچک پیدا کردند. باران با دقت آن را باز کرد و درون آن چند سرنخ دیگر و یک یادداشت پیدا کرد. یادداشت نوشته بود: "به دنبال گنجی بگردید که برای همه‌ی شهر مفید است."  
 >
-> درون کتاب یک برگه دیگر با سرنخ جدید وجود داشت. نوشتار برگه می‌گفت: «در دل جنگل‌های تاریک، رازها پنهان است.» سارا گفت: «این یعنی ما باید به سراغ کتاب‌هایی برویم که داستان‌های جنگل دارند!» آنها دوباره به جستجوی خود ادامه دادند.
+> باران گفت: «این به نظر معما می‌آید! گنجی که برای همه مفید باشد چیست؟» نرگس و امیر به فکر فرو رفتند و بعد از چند دقیقه، امیر ناگهان گفت: «شاید به فضای سبز شهر اشاره داشته باشد! شاید گنج یک باغ بزرگ باشد!»
 >
-> با هر کتابی که می‌خواندند، سرنخ‌های جدیدی پیدا می‌کردند. باران متوجه شد که باید با دقت به جزئیات توجه کند و این نکته به آنها کمک کرد تا سرنخ‌ها را حل کنند. وقتی آنها به کتاب بعدی رسیدند، باران یادش آمد که چه چیزهایی از جمله رنگ‌ها و شکل‌ها در داستان‌ها وجود دارد.
+> باران با هیجان گفت: «بله! بیایید به آنجا برویم!» آن‌ها به سمت فضای سبز حرکت کردند. در آنجا، باران متوجه شد که درختان و گل‌های زیبایی در حال رشد هستند. همچنین، یک تابلو بزرگ در ورودی باغ وجود داشت که روی آن نوشته شده بود: "این باغ به یاد انسان‌های خوب این شهر ایجاد شده است."
 >
-> در نهایت، باران به یکی از کتاب‌های قدیمی‌تر دست یافت، جایی که در آن یک تصویر از یک درخت بزرگ و قوی بود. او با هیجان گفت: «من این را می‌شناسم! این درخت در پارک شهر ماست!»
+> باران و دوستانش با دقت به نوشته نگاه کردند و متوجه شدند که خودشان می‌توانند کمک کنند. باران گفت: «ما می‌توانیم به این باغ کمک کنیم تا بزرگ‌تر و زیباتر شود! ما می‌توانیم گل‌های بیشتری بکاریم.»
 >
-> سپس، آنها به سمت پارک دویدند و به جستجوی درخت بزرگ رفتند. وقتی که به درخت رسیدند، باران ناگهان یادش آمد که در نقشه یک علامت مشخص وجود دارد. او با دقت به اطراف نگاه کرد و بلافاصله متوجه شد که در پای درخت یک جعبه کوچک پنهان است.
+> در نتیجه، باران و دوستانش تصمیم گرفتند هر هفته به باغ بیایند و به آن رسیدگی کنند. آن‌ها نه تنها گنج را پیدا کردند، بلکه دوستی خود را نیز محکم‌تر کردند. باران با لبخند گفت: «فهمیدم که صداقت و دقت در مشاهده می‌تواند به ما در حل معماها کمک کند.»
 >
-> باران جعبه را برداشت و آن را باز کرد. درون آن، سکه‌های طلا و چند کتاب قدیمی وجود داشت! سارا و امیر با خوشحالی فریاد زدند: «ما موفق شدیم!» باران با لبخند گفت: «همه چیز به خاطر توجه به جزئیات و کار گروهی ما بود.»
+> چند هفته بعد، باغ به یک مکان زیبا و پر از زندگی تبدیل شد. مردم شهر به آنجا آمدند و از زیبایی باغ لذت بردند. باران و دوستانش خوشحال بودند، زیرا آن‌ها نه تنها گنج را پیدا کردند، بلکه به شهر خود نیز کمک کردند.
 >
-> آنها با گنجی که یافته بودند به کتابخانه برگشتند و تصمیم گرفتند داستان خود را برای سایر بچه‌ها تعریف کنند. باران می‌دانست که این ماجرا به او یاد داده که صداقت و استدلال همیشه راه‌حل‌های خوبی برای مشکلات هستند.
+> در انتهای داستان، باران و دوستانش زیر درختان باغ نشسته بودند و به زیبایی‌های طبیعی اطرافشان نگاه می‌کردند. باران با خوشحالی گفت: «ما گنجی پیدا کردیم که برای همه مفید است!» و این‌طور بود که آن‌ها فهمیدند که صداقت و کار گروهی همیشه بهترین پاسخ به معماهاست.
 
-## 2. Editor — review (round 0, attempt 1) · 6.02 s · tokens 3381/484
+## 2. Editor — review (round 0, attempt 1) · 4.76 s · tokens 3422/368
 
 **Coordinator → Editor:**
 
@@ -90,36 +96,259 @@
 > - Must include: معمایی بی‌خطر با سرنخ‌های قابل فهم
 > - Must avoid: خشونت; فضای ترسناک
 >
-> Automatic checks (length 468 words for 450-550, avoid-list): passed. Do not list length as an issue.
+> Automatic checks (length 495 words for 450-550, avoid-list): passed. Do not list length as an issue.
 
 *(also received the message from **Author** shown above)*
 
 **Editor replied:**
 
-**Verdict:** `revise` · scores: age_fit 4, requirements 5, coherence 4, literary_quality 4, safety 5, personalization 4
-**Summary:** The story presents a solid foundation with a clear theme and engaging plot, but it needs to better integrate Baran's interests into the action and enhance the coherence and vividness of the ending.
+**Verdict:** `revise` · scores: age_fit 4, requirements 3, coherence 4, literary_quality 3, safety 5, personalization 4
+**Summary:** The story has a solid foundation with engaging elements, but it needs to remove explicit moral statements and enhance the mystery aspect to avoid predictability.
 **Issues:**
-- [personalization] «باران، دختر نازنینی که عاشق معماها و نقشه‌ها بود» — The child's interests are mentioned but not fully integrated into the plot. The story could benefit from more specific references to Baran's love for puzzles and detective work beyond just stating it. → **fix:** Include a specific puzzle or riddle that Baran must solve using her detective skills, making her interests more active in the plot.
-- [coherence] «باران با صدای بلند گفت: «اولین نشانه به کتاب داستان‌های افسانه‌ای اشاره دارد!» — The transition between finding clues could be smoother; some clues feel a bit disconnected from the previous ones. → **fix:** Add a brief explanation of how each clue logically leads to the next, enhancing the flow of the mystery.
-- [literary_quality] «باران جعبه را برداشت و آن را باز کرد. درون آن، سکه‌های طلا و چند کتاب قدیمی وجود داشت!» — The ending is somewhat generic and lacks vivid imagery or a unique twist that would make it memorable. → **fix:** Describe the treasure in more detail, perhaps including how it relates to the adventure or Baran's character, to create a more engaging conclusion.
+- [requirements] «فهمیدم که صداقت و دقت در مشاهده می‌تواند به ما در حل معماها کمک کند.» — The moral is explicitly stated, which detracts from the storytelling. → **fix:** Remove the explicit moral statement and instead show the lesson through Baran's actions and thoughts.
+- [requirements] «گنجی که برای همه مفید باشد چیست؟» — The problem is resolved with a clear moral lesson, making it predictable. → **fix:** Focus on the adventure and discovery aspect without directly stating the moral lesson.
 <details><summary>checklist</summary>
 
-PASS: The story features Baran, a 9-year-old girl, and her interests in puzzles and mysteries are central to the plot. 
-PASS: The theme of honesty and problem-solving through observation and reasoning is present and meaningful. 
-PASS: The setting is a fictional city, and the story takes place in a library and a park. 
-PASS: The story includes a safe mystery with understandable clues related to books. 
-PASS: There is no violence or frightening elements present in the story.
+PASS: The story features Baran, a 9-year-old girl, as the main character. 
+PASS: The theme of honesty and problem-solving through observation and reasoning is present. 
+PASS: The setting is a fictional city, as required. 
+PASS: The story includes a safe mystery with understandable clues related to the treasure map. 
+FAIL: The moral is announced in the text: "فهمیدم که صداقت و دقت در مشاهده می‌تواند به ما در حل معماها کمک کند." This should be implied rather than stated directly. 
+FAIL: The problem of finding the treasure is resolved with a clear moral lesson stated, which detracts from the story's engagement. 
+
 
 </details>
 
-**➜ Coordinator decision:** round=0, approved=True, words=468, editor_verdict=revise, editor_total=26
+**➜ Coordinator decision:** round=0, approved=False, words=495, editor_verdict=revise, editor_total=23
 
-## 3. Storyteller — narrate (round 0, attempt 1) · 10.69 s · tokens 2029/876
+## 3. Author — revise (round 1, attempt 1) · 10.93 s · tokens 3305/1267
+
+*(also received the message from **Editor** shown above)*
+
+**Coordinator → Author:**
+
+> Revise your story using the Editor's review above. Fix every issue, keep what works, and return the complete story.
+
+**Author replied:**
+
+<details><summary>outline</summary>
+
+1. **Three ideas first:**  
+   a. Baran discovers a missing treasure map in her attic, leading her on an adventure to find hidden treasure in her city, uncovering clues with friends.  
+   b. Baran investigates a series of disappearing pets in her neighborhood, using her detective skills to uncover a clever plot involving a neighbor’s unexpected hobby.  
+   c. Baran finds an old diary containing riddles that lead to a secret location in the city, solving each riddle with the help of her friends. The first idea is chosen because it combines mystery with exploration in a safe environment, appealing to Baran's love for puzzles and maps.  
+ 
+2. **Turning point:**  
+   Baran realizes that the final clue requires her to think differently about the treasure's location, leading her to a place she never expected.  
+ 
+3. **Hero:**  
+   Baran is the hero, using her observation and reasoning to solve the clues and find the treasure.  
+ 
+4. **Interests:**  
+   Baran’s interests in puzzles and maps drive the plot as she deciphers clues and navigates through her city.  
+ 
+5. **Must include:**  
+   The story includes an engaging mystery, clues, and a treasure map.  
+ 
+6. **Arc:**  
+   Opening with Baran finding the map → development as she gathers clues → a concrete problem of finding the treasure → turning point of realizing the final clue → resolution of discovering the treasure → warm closing with her celebrating with friends.  
+ 
+7. **Spark:**  
+   The treasure is not gold or jewels but something that brings the community together.  
+ 
+8. **Length plan:**  
+   12 paragraphs, approximately 40 words each, fitting within 450-550 words.
+
+</details>
+
+**Title:** ماجرای نقشه گمشده باران  
+**Moral:** صداقت و دقت در مشاهده می‌تواند پاسخ معماها را بیابد.
+
+> یک روز آفتابی در شهر خیالی، باران در attic خانه‌اش گشت و گذار می‌کرد. ناگهان، او یک نقشه قدیمی را پیدا کرد که به نظر می‌رسید به یک گنج شخصی اشاره می‌کند. باران با دقت به نقشه نگاه کرد و فهمید که باید سرنخ‌ها را پیدا کند. او خیلی هیجان‌زده شد و تصمیم گرفت که این معما را حل کند.
+>
+> باران به دوستانش، نرگس و امیر، زنگ زد. او با هیجان گفت: «من یک نقشه‌ی گنج پیدا کرده‌ام! بیایید تا با هم آن را پیدا کنیم!» نرگس و امیر بلافاصله قبول کردند و به خانه‌اش آمدند. آن‌ها نقشه را با جزئیات بررسی کردند و متوجه شدند که اولین سرنخ در پارک محلی است.
+>
+> وقتی که به پارک رسیدند، باران به هر گوشه‌اش نگاه کرد. او دید که درختی بزرگ در مرکز پارک وجود دارد. بر روی نقشه، یک علامت خاص در کنار درخت بود. باران به دوستانش گفت: «بیایید به آن درخت برویم و ببینیم چه چیزی پیدا می‌کنیم!»
+>
+> درخت باستانی و بزرگ، سایه‌ی زیبایی به پارک می‌بخشید. باران و دوستانش زیر درخت نشسته و شروع به کندن خاک کردند. ناگهان، آن‌ها یک جعبه کوچک پیدا کردند. باران با دقت آن را باز کرد و درون آن چند سرنخ دیگر و یک یادداشت پیدا کرد. یادداشت نوشته بود: "به دنبال گنجی بگردید که برای همه‌ی شهر مفید است."
+>
+> باران گفت: «این به نظر معما می‌آید! گنجی که برای همه مفید باشد چیست؟» نرگس و امیر به فکر فرو رفتند و بعد از چند دقیقه، امیر ناگهان گفت: «شاید به فضای سبز شهر اشاره داشته باشد! شاید گنج یک باغ بزرگ باشد!»
+>
+> باران با هیجان گفت: «بله! بیایید به آنجا برویم!» آن‌ها به سمت فضای سبز حرکت کردند. در آنجا، باران متوجه شد که درختان و گل‌های زیبایی در حال رشد هستند. همچنین، یک تابلو بزرگ در ورودی باغ وجود داشت که روی آن نوشته شده بود: "این باغ به یاد انسان‌های خوب این شهر ایجاد شده است."
+>
+> باران و دوستانش با دقت به نوشته نگاه کردند و متوجه شدند که خودشان می‌توانند کمک کنند. باران گفت: «ما می‌توانیم به این باغ کمک کنیم تا بزرگ‌تر و زیباتر شود! ما می‌توانیم گل‌های بیشتری بکاریم.»
+>
+> در نتیجه، باران و دوستانش تصمیم گرفتند هر هفته به باغ بیایند و به آن رسیدگی کنند. آن‌ها نه تنها گنج را پیدا کردند، بلکه دوستی خود را نیز محکم‌تر کردند. باران با لبخند گفت: «این گنج به ما نشان داد که همیشه باید به نیازهای دیگران فکر کنیم.»
+>
+> چند هفته بعد، باغ به یک مکان زیبا و پر از زندگی تبدیل شد. مردم شهر به آنجا آمدند و از زیبایی باغ لذت بردند. باران و دوستانش خوشحال بودند، زیرا آن‌ها نه تنها گنج را پیدا کردند، بلکه به شهر خود نیز کمک کردند.
+>
+> در انتهای داستان، باران و دوستانش زیر درختان باغ نشسته بودند و به زیبایی‌های طبیعی اطرافشان نگاه می‌کردند. باران با خوشحالی گفت: «ما گنجی پیدا کردیم که برای همه مفید است!» و این‌طور بود که آن‌ها از ماجراجویی خود راضی و شاد بودند.
+
+## 4. Editor — review (round 1, attempt 1) · 4.98 s · tokens 3541/381
+
+**Coordinator → Editor:**
+
+> Task A — review revision 1. Judge it with the same bar as a new story and re-score it from scratch by the Author (next message) against this brief.
+>
+> BRIEF
+> - Child's first name: باران
+> - Child's age: 9 (audience age range 8-10)
+> - Child's interests: معما, کارآگاهی, نقشه
+> - Favourite character: none given — free choice, not a requirement
+> - Reading level: none given — follow the age
+> - Theme: صداقت و حل مسئله با مشاهده و استدلال
+> - Moral / message: none given — choose one that fits the theme
+> - Setting: یک شهر خیالی
+> - Length: 450-550 words (Persian words)
+> - Must include: معمایی بی‌خطر با سرنخ‌های قابل فهم
+> - Must avoid: خشونت; فضای ترسناک
+>
+> ISSUES FROM THE PREVIOUS REVIEW — for each, check the new text: if it is really fixed, drop it; if not, report it again quoting the new text:
+> - [requirements/major] The moral is explicitly stated, which detracts from the storytelling. (fix asked: Remove the explicit moral statement and instead show the lesson through Baran's actions and thoughts.)
+> - [requirements/major] The problem is resolved with a clear moral lesson, making it predictable. (fix asked: Focus on the adventure and discovery aspect without directly stating the moral lesson.)
+>
+> Automatic checks (length 490 words for 450-550, avoid-list): passed. Do not list length as an issue.
+
+*(also received the message from **Author** shown above)*
+
+**Editor replied:**
+
+**Verdict:** `revise` · scores: age_fit 4, requirements 2, coherence 4, literary_quality 3, safety 5, personalization 4
+**Summary:** The story has a solid premise and engaging elements, but it still explicitly states the moral and resolves the problem in a predictable way, which needs to be addressed.
+**Issues:**
+- [requirements] «این گنج به ما نشان داد که همیشه باید به نیازهای دیگران فکر کنیم.» — The moral is explicitly stated, which detracts from the storytelling. → **fix:** Remove the explicit moral statement and instead show the lesson through Baran's actions and thoughts.
+- [requirements] «ما گنجی پیدا کردیم که برای همه مفید است!» — The problem is resolved with a clear moral lesson, making it predictable. → **fix:** Focus on the adventure and discovery aspect without directly stating the moral lesson.
+<details><summary>checklist</summary>
+
+PASS: The story features Baran, a 9-year-old girl, and her interests in puzzles and maps are central to the plot. 
+PASS: The theme of honesty and problem-solving through observation and reasoning is present, although the moral is explicitly stated. 
+PASS: The setting is a fictional city, as required. 
+PASS: The story includes a safe mystery with understandable clues. 
+FAIL: The moral is explicitly stated in the line: "این گنج به ما نشان داد که همیشه باید به نیازهای دیگران فکر کنیم." This detracts from the storytelling. 
+FAIL: The problem is resolved with a clear moral lesson, making it predictable, especially with the line: "ما گنجی پیدا کردیم که برای همه مفید است!"
+
+</details>
+
+**➜ Coordinator decision:** round=1, approved=False, words=490, editor_verdict=revise, editor_total=22
+
+## 5. Author — revise (round 2, attempt 1) · 13.18 s · tokens 4998/1262
+
+*(also received the message from **Editor** shown above)*
+
+**Coordinator → Author:**
+
+> Revise your story using the Editor's review above. Fix every issue, keep what works, and return the complete story.
+
+**Author replied:**
+
+<details><summary>outline</summary>
+
+1. **Three ideas first:**  
+   a. Baran discovers a missing treasure map in her attic, leading her on an adventure to find hidden treasure in her city, uncovering clues with friends.  
+   b. Baran investigates a series of disappearing pets in her neighborhood, using her detective skills to uncover a clever plot involving a neighbor’s unexpected hobby.  
+   c. Baran finds an old diary containing riddles that lead to a secret location in the city, solving each riddle with the help of her friends. The first idea is chosen because it combines mystery with exploration in a safe environment, appealing to Baran's love for puzzles and maps.  
+ 
+2. **Turning point:**  
+   Baran realizes that the final clue requires her to think differently about the treasure's location, leading her to a place she never expected.  
+ 
+3. **Hero:**  
+   Baran is the hero, using her observation and reasoning to solve the clues and find the treasure.  
+ 
+4. **Interests:**  
+   Baran’s interests in puzzles and maps drive the plot as she deciphers clues and navigates through her city.  
+ 
+5. **Must include:**  
+   The story includes an engaging mystery, clues, and a treasure map.  
+ 
+6. **Arc:**  
+   Opening with Baran finding the map → development as she gathers clues → a concrete problem of finding the treasure → turning point of realizing the final clue → resolution of discovering the treasure → warm closing with her celebrating with friends.  
+ 
+7. **Spark:**  
+   The treasure is not gold or jewels but something that brings the community together.  
+ 
+8. **Length plan:**  
+   12 paragraphs, approximately 40 words each, fitting within 450-550 words.
+
+</details>
+
+**Title:** ماجرای نقشه گمشده باران  
+**Moral:** صداقت و دقت در مشاهده می‌تواند پاسخ معماها را بیابد.
+
+> یک روز آفتابی در شهر خیالی، باران در attic خانه‌اش گشت و گذار می‌کرد. ناگهان، او یک نقشه قدیمی را پیدا کرد که به نظر می‌رسید به یک گنج شخصی اشاره می‌کند. باران با دقت به نقشه نگاه کرد و فهمید که باید سرنخ‌ها را پیدا کند. او خیلی هیجان‌زده شد و تصمیم گرفت که این معما را حل کند.
+>
+> باران به دوستانش، نرگس و امیر، زنگ زد. او با هیجان گفت: «من یک نقشه‌ی گنج پیدا کرده‌ام! بیایید تا با هم آن را پیدا کنیم!» نرگس و امیر بلافاصله قبول کردند و به خانه‌اش آمدند. آن‌ها نقشه را با جزئیات بررسی کردند و متوجه شدند که اولین سرنخ در پارک محلی است.
+>
+> وقتی که به پارک رسیدند، باران به هر گوشه‌اش نگاه کرد. او دید که درختی بزرگ در مرکز پارک وجود دارد. بر روی نقشه، یک علامت خاص در کنار درخت بود. باران به دوستانش گفت: «بیایید به آن درخت برویم و ببینیم چه چیزی پیدا می‌کنیم!»
+>
+> درخت باستانی و بزرگ، سایه‌ی زیبایی به پارک می‌بخشید. باران و دوستانش زیر درخت نشسته و شروع به کندن خاک کردند. ناگهان، آن‌ها یک جعبه کوچک پیدا کردند. باران با دقت آن را باز کرد و درون آن چند سرنخ دیگر و یک یادداشت پیدا کرد. یادداشت نوشته بود: "به دنبال گنجی بگردید که برای همه‌ی شهر مفید است."
+>
+> باران گفت: «این به نظر معما می‌آید! گنجی که برای همه مفید باشد چیست؟» نرگس و امیر به فکر فرو رفتند و بعد از چند دقیقه، امیر ناگهان گفت: «شاید به فضای سبز شهر اشاره داشته باشد! شاید گنج یک باغ بزرگ باشد!»
+>
+> باران با هیجان گفت: «بله! بیایید به آنجا برویم!» آن‌ها به سمت فضای سبز حرکت کردند. در آنجا، باران متوجه شد که درختان و گل‌های زیبایی در حال رشد هستند. همچنین، یک تابلو بزرگ در ورودی باغ وجود داشت که روی آن نوشته شده بود: "این باغ به یاد انسان‌های خوب این شهر ایجاد شده است."
+>
+> باران و دوستانش با دقت به نوشته نگاه کردند و متوجه شدند که خودشان می‌توانند کمک کنند. باران گفت: «ما می‌توانیم به این باغ کمک کنیم تا بزرگ‌تر و زیباتر شود! ما می‌توانیم گل‌های بیشتری بکاریم.»
+>
+> در نتیجه، باران و دوستانش تصمیم گرفتند هر هفته به باغ بیایند و به آن رسیدگی کنند. آن‌ها نه تنها گنج را پیدا کردند، بلکه دوستی خود را نیز محکم‌تر کردند. باران با لبخند به دوستانش گفت: «ما باید به این باغ عشق زیادی بدهیم.»
+>
+> چند هفته بعد، باغ به یک مکان زیبا و پر از زندگی تبدیل شد. مردم شهر به آنجا آمدند و از زیبایی باغ لذت بردند. باران و دوستانش خوشحال بودند، زیرا آن‌ها نه تنها گنج را پیدا کردند، بلکه به شهر خود نیز کمک کردند.
+>
+> در انتهای داستان، باران و دوستانش زیر درختان باغ نشسته بودند و به زیبایی‌های طبیعی اطرافشان نگاه می‌کردند. باران با خوشحالی گفت: «ما در اینجا یک دنیای زیبا ساخته‌ایم!» و این‌طور بود که آن‌ها از ماجراجویی خود راضی و شاد بودند.
+
+## 6. Editor — review (round 2, attempt 1) · 4.34 s · tokens 3536/353
+
+**Coordinator → Editor:**
+
+> Task A — review revision 2. Judge it with the same bar as a new story and re-score it from scratch by the Author (next message) against this brief.
+>
+> BRIEF
+> - Child's first name: باران
+> - Child's age: 9 (audience age range 8-10)
+> - Child's interests: معما, کارآگاهی, نقشه
+> - Favourite character: none given — free choice, not a requirement
+> - Reading level: none given — follow the age
+> - Theme: صداقت و حل مسئله با مشاهده و استدلال
+> - Moral / message: none given — choose one that fits the theme
+> - Setting: یک شهر خیالی
+> - Length: 450-550 words (Persian words)
+> - Must include: معمایی بی‌خطر با سرنخ‌های قابل فهم
+> - Must avoid: خشونت; فضای ترسناک
+>
+> ISSUES FROM THE PREVIOUS REVIEW — for each, check the new text: if it is really fixed, drop it; if not, report it again quoting the new text:
+> - [requirements/major] The moral is explicitly stated, which detracts from the storytelling. (fix asked: Remove the explicit moral statement and instead show the lesson through Baran's actions and thoughts.)
+> - [requirements/major] The problem is resolved with a clear moral lesson, making it predictable. (fix asked: Focus on the adventure and discovery aspect without directly stating the moral lesson.)
+>
+> Automatic checks (length 484 words for 450-550, avoid-list): passed. Do not list length as an issue.
+
+*(also received the message from **Author** shown above)*
+
+**Editor replied:**
+
+**Verdict:** `revise` · scores: age_fit 4, requirements 3, coherence 4, literary_quality 4, safety 5, personalization 5
+**Summary:** The story has a strong plot and engaging elements, but it still contains explicit moral statements that detract from the narrative flow and predictability.
+**Issues:**
+- [requirements] «"صداقت و دقت در مشاهده می‌تواند پاسخ معماها را بیابد."» — The moral is explicitly stated, which detracts from the storytelling. → **fix:** Remove the explicit moral statement and instead show the lesson through Baran's actions and thoughts.
+- [requirements] «"این به نظر معما می‌آید! گنجی که برای همه مفید باشد چیست؟"» — The problem is resolved with a clear moral lesson, making it predictable. → **fix:** Focus on the adventure and discovery aspect without directly stating the moral lesson.
+<details><summary>checklist</summary>
+
+PASS: The story features Baran's interests in puzzles and maps as she deciphers clues and navigates through her city.
+PASS: The theme of honesty and problem-solving through observation and reasoning is present, though the moral is still somewhat explicit.
+PASS: The story has a clear opening, development, problem, climax, resolution, and ending.
+PASS: The language is natural and engaging, suitable for the age group, with vivid imagery.
+PASS: The story does not contain any violence, threats, or unsafe behavior.
+PASS: Baran actively solves the problem throughout the story, using her skills and reasoning.
+
+</details>
+
+**➜ Coordinator decision:** round=2, approved=False, words=484, editor_verdict=revise, editor_total=25
+
+**➜ Coordinator decision:** chosen=2, reason=revision cap reached; best version, ranks={0: [True, True, True, 23, 0], 1: [True, True, True, 22, 1], 2: [True, True, True, 25, 2]}
+
+## 7. Storyteller — narrate (round 0, attempt 1) · 7.91 s · tokens 2052/896
 
 **Coordinator → Storyteller:**
 
 > The Editor approved the story in the next message. Turn it into a read-aloud version for the child. Keep every event, character, the moral and the ending.
-> Length: the approved text has 468 words in 10 paragraphs; your version must have 450-524 words. Keep about 10 paragraphs: make the telling livelier by turning narration into dialogue and sound rather than by adding paragraphs.
+> Length: the approved text has 484 words in 10 paragraphs; your version must have 460-542 words. Keep about 10 paragraphs: make the telling livelier by turning narration into dialogue and sound rather than by adding paragraphs.
 >
 > BRIEF (for the child's age and the rules to keep)
 > - Child's first name: باران
@@ -139,83 +368,80 @@ PASS: There is no violence or frightening elements present in the story.
 **Storyteller replied:**
 
 
-> گوش کن، می‌خواهم قصه‌ای برایت بگویم… در یک شهر خیالی و زیبا، دختر نازنینی به نام باران زندگی می‌کرد. باران دختر بسیار باهوش و کنجکاوی بود که عاشق معماها و نقشه‌ها بود. او هر روز به کتابخانه می‌رفت و در دنیای کتاب‌ها غرق می‌شد. یک روز، در میان قفسه‌های کتابخانه، چشمش به کتابی قدیمی و غبارآلود افتاد.
+> گوش کن، می‌خواهم قصه‌ای برایت بگویم…
 >
-> باران با کنجکاوی کتاب را برداشت و ناگهان چیزی از آن به زمین افتاد! «وای، چی اینجا بود؟» باران با حیرت نگاه کرد و دید که یک نقشه کوچک درون کتاب پنهان شده است. روی نقشه نوشته شده بود: «کلید گنج در کتاب‌هاست.» باران با خود فکر کرد: «این معما چقدر هیجان‌انگیز است! باید به دوستانم بگویم!»
+> در یک روز آفتابی و زیبا در قلب یک شهر خیالی، باران، دختر شجاع و کنجکاو، در اتاق زیر شیروانی خانه‌اش مشغول گشت و گذار بود. ناگهان، او با چیزی جالب مواجه شد… «وای، این چیه؟!» او یک نقشه‌ی قدیمی پیدا کرد، نقشه‌ای که به یک گنج پنهان اشاره می‌کرد! قلب باران با هیجان می‌زد و او تصمیم گرفت تا این معما را حل کند.
 >
-> او بلافاصله به دوستانش، سارا و امیر، خبر داد. سارا با شوق گفت: «این خیلی جالب است! بیایید با هم این معما را حل کنیم!» امیر هم با هیجان اضافه کرد: «ما می‌توانیم یک تیم کارآگاهی بسازیم!» باران با لبخند گفت: «ما باید این نقشه را دنبال کنیم و ببینیم چه چیزی پیدا می‌کنیم!»
+> سریعاً به دوستانش زنگ زد و با صدای پرشور گفت: «نرگس! امیر! بیاید، من یک نقشه‌ی گنج پیدا کرده‌ام!» و دوستانش با شوق و ذوق پذیرفتند و به خانه‌اش آمدند. «بیایید نقشه را بررسی کنیم!» باران گفت و آن‌ها به دقت دور نقشه نشسته و نگاه کردند. متوجه شدند که اولین سرنخ در پارک محلی است.
 >
-> با دقت به نقشه نگاه کردند و متوجه شدند که هر نشانه‌ای به یک کتاب خاص اشاره دارد. باران با صدای بلند گفت: «اولین نشانه به کتاب داستان‌های افسانه‌ای اشاره دارد! بیایید برویم و آن را پیدا کنیم!» آنها با شوق به سمت قفسه‌ها دویدند و کتاب را پیدا کردند.
+> وقتی به پارک رسیدند، باران به هر گوشه نگاه می‌کرد. «ببینید، اون درخت بزرگ چقدر جالب به نظر میاد!» او گفت. روی نقشه، علامت خاصی در کنار آن درخت وجود داشت. «بیایید به آن درخت برویم و ببینیم چه چیزی پیدا می‌کنیم!»
 >
-> درون کتاب، یک برگه دیگر با سرنخی جدید وجود داشت. برگه گفت: «در دل جنگل‌های تاریک، رازها پنهان است.» سارا گفت: «این یعنی ما باید به سراغ کتاب‌هایی برویم که داستان‌های جنگل دارند!» باران با چشمان درخشان گفت: «بله! بیایید ادامه دهیم!»
+> درخت باستانی سایه‌ی خنک و زیبایی بر پارک می‌افکند. باران و دوستانش زیر درخت نشسته و شروع کردند به کندن خاک. ناگهان صدای «شلپ‌شلپ» خاک به گوششان رسید و آن‌ها یک جعبه کوچک پیدا کردند. باران با احتیاط آن را باز کرد و درون آن چند سرنخ و یک یادداشت پیدا کرد. یادداشت نوشته بود: "به دنبال گنجی بگردید که برای همه‌ی شهر مفید است."
 >
-> آنها به جستجوی خود ادامه دادند و با هر کتابی که می‌خواندند، سرنخ‌های جدیدی پیدا می‌کردند. باران توجهش به جزئیات جلب می‌شد و می‌دانست که این نکته به آنها کمک می‌کند تا معما را حل کنند. او یادش آمد که در کتاب‌ها چه رنگ‌ها و شکل‌هایی دیده بود.
+> باران گفت: «این به نظر معما می‌آید! گنجی که برای همه مفید باشد چیست؟» نرگس و امیر در فکر فرو رفتند و بعد از مدتی، امیر با شور گفت: «شاید منظورش فضای سبز شهر باشد! شاید گنج یک باغ بزرگ باشد!»
 >
-> سرانجام، باران به یکی از کتاب‌های قدیمی‌تر رسید. تصویر درخت بزرگ و قویا در آن بود. باران با هیجان گفت: «این درخت در پارک شهر ماست! بیایید برویم!»
+> باران با شادی فریاد زد: «بله! بیایید به آنجا برویم!» آن‌ها به سمت فضای سبز حرکت کردند. باران از دیدن درختان و گل‌های زیبا شگفت‌زده شد. در ورودی باغ، یک تابلو بزرگ وجود داشت که بر روی آن نوشته شده بود: "این باغ به یاد انسان‌های نیکو این شهر ایجاد شده است."
 >
-> آنها به سمت پارک دویدند و به جستجوی درخت بزرگ پرداختند. وقتی که به درخت رسیدند، باران ناگهان یادش آمد که در نقشه علامتی وجود دارد. او با دقت اطراف را بررسی کرد و متوجه شد که در پای درخت یک جعبه کوچک پنهان است. «وای! اینجا چیه؟»
+> باران و دوستانش با دقت به نوشته نگاه کردند و متوجه شدند که خودشان می‌توانند کمک کنند. باران گفت: «ما می‌توانیم به این باغ کمک کنیم تا بزرگ‌تر و زیباتر شود! ما می‌توانیم گل‌های بیشتری بکاریم.»
 >
-> باران جعبه را برداشت و باز کرد. درون آن سکه‌های طلا و چند کتاب قدیمی وجود داشت! سارا و امیر با خوشحالی فریاد زدند: «ما موفق شدیم!» باران با لبخند گفت: «همه چیز به خاطر توجه به جزئیات و کار گروهی ما بود.»
+> و این‌گونه بود که باران و دوستانش تصمیم گرفتند هر هفته به باغ بیایند و به آن رسیدگی کنند. نه تنها گنج را پیدا کردند، بلکه دوستی‌های خود را نیز عمیق‌تر کردند. باران با لبخند به دوستانش گفت: «ما باید به این باغ عشق و محبت زیادی بدهیم.»
 >
-> آنها با گنجی که یافته بودند به کتابخانه برگشتند و تصمیم گرفتند داستان خود را برای سایر بچه‌ها تعریف کنند. باران می‌دانست که این ماجرا به او یاد داده که صداقت و استدلال همیشه راه‌حل‌های خوبی برای مشکلات هستند. قصه ما به پایان رسید… اما یاد داشته باش که هر معما، ماجرای جالبی دارد!
+> چند هفته بعد، باغ تبدیل به یک مکان زیبا و پر از زندگی شد. مردم شهر به آنجا می‌آمدند و از زیبایی باغ لذت می‌بردند. باران و دوستانش خوشحال بودند، زیرا آن‌ها نه تنها گنج را پیدا کردند، بلکه به شهر خود نیز کمک کردند.
+>
+> در انتهای داستان، باران و دوستانش زیر درختان باغ نشسته و به زیبایی‌های طبیعی اطرافشان نگاه می‌کردند. باران با خوشحالی گفت: «ما در اینجا یک دنیای زیبا ساخته‌ایم!» و این‌طور بود که آن‌ها از ماجراجویی خود راضی و شاد بودند.
 
-## 4. Editor — check_narration (round 0, attempt 1) · 2.83 s · tokens 3662/190
+## 8. Editor — check_narration (round 0, attempt 1) · 3.0 s · tokens 3695/188
 
 **Coordinator → Editor:**
 
 > Task B — check the Storyteller's read-aloud version (next message) against the approved story below.
 >
 > APPROVED STORY
-> در یک شهر خیالی، باران، دختر نازنینی که عاشق معماها و نقشه‌ها بود، روزهایش را در کتابخانه می‌گذرانید. او همیشه دنبال یک ماجرای جدید بود و کتاب‌ها برایش دنیای شگفت‌انگیزی می‌ساختند. یک روز، وقتی در قفسه‌های کتابخانه قدم می‌زد، چشمش به کتابی قدیمی افتاد که پوشش آن پر از گرد و غبار بود.
+> یک روز آفتابی در شهر خیالی، باران در attic خانه‌اش گشت و گذار می‌کرد. ناگهان، او یک نقشه قدیمی را پیدا کرد که به نظر می‌رسید به یک گنج شخصی اشاره می‌کند. باران با دقت به نقشه نگاه کرد و فهمید که باید سرنخ‌ها را پیدا کند. او خیلی هیجان‌زده شد و تصمیم گرفت که این معما را حل کند.
 >
-> باران کتاب را برداشت و دید که درون آن، نقشه‌ای کوچک پنهان شده است. در بالای نقشه نوشته شده بود: «کلید گنج در کتاب‌هاست.» باران با شگفتی به نقشه نگاه کرد و تصمیم گرفت که این معما را حل کند. او فکر کرد شاید این نقشه به یک گنج واقعی منتهی شود.
+> باران به دوستانش، نرگس و امیر، زنگ زد. او با هیجان گفت: «من یک نقشه‌ی گنج پیدا کرده‌ام! بیایید تا با هم آن را پیدا کنیم!» نرگس و امیر بلافاصله قبول کردند و به خانه‌اش آمدند. آن‌ها نقشه را با جزئیات بررسی کردند و متوجه شدند که اولین سرنخ در پارک محلی است.
 >
-> باران به دوستانش، سارا و امیر، خبر داد و آنها با اشتیاق به کتابخانه آمدند. آنها هم مانند باران عاشق معما بودند و همواره برای حل معماها کنار هم بودند. باران به آنها گفت: «ما باید این نقشه را دنبال کنیم و ببینیم چه چیزی پیدا می‌کنیم!»
+> وقتی که به پارک رسیدند، باران به هر گوشه‌اش نگاه کرد. او دید که درختی بزرگ در مرکز پارک وجود دارد. بر روی نقشه، یک علامت خاص در کنار درخت بود. باران به دوستانش گفت: «بیایید به آن درخت برویم و ببینیم چه چیزی پیدا می‌کنیم!»
 >
-> آنها به دقت به نقشه نگاه کردند و متوجه شدند که هر نشانه‌ای به یک کتاب خاص اشاره دارد. باران با صدای بلند گفت: «اولین نشانه به کتاب داستان‌های افسانه‌ای اشاره دارد! بیایید برویم و آن را پیدا کنیم.» آنها با شوق به سمت قفسه کتاب‌ها رفتند و کتاب را پیدا کردند.
+> درخت باستانی و بزرگ، سایه‌ی زیبایی به پارک می‌بخشید. باران و دوستانش زیر درخت نشسته و شروع به کندن خاک کردند. ناگهان، آن‌ها یک جعبه کوچک پیدا کردند. باران با دقت آن را باز کرد و درون آن چند سرنخ دیگر و یک یادداشت پیدا کرد. یادداشت نوشته بود: "به دنبال گنجی بگردید که برای همه‌ی شهر مفید است."
 >
-> درون کتاب یک برگه دیگر با سرنخ جدید وجود داشت. نوشتار برگه می‌گفت: «در دل جنگل‌های تاریک، رازها پنهان است.» سارا گفت: «این یعنی ما باید به سراغ کتاب‌هایی برویم که داستان‌های جنگل دارند!» آنها دوباره به جستجوی خود ادامه دادند.
+> باران گفت: «این به نظر معما می‌آید! گنجی که برای همه مفید باشد چیست؟» نرگس و امیر به فکر فرو رفتند و بعد از چند دقیقه، امیر ناگهان گفت: «شاید به فضای سبز شهر اشاره داشته باشد! شاید گنج یک باغ بزرگ باشد!»
 >
-> با هر کتابی که می‌خواندند، سرنخ‌های جدیدی پیدا می‌کردند. باران متوجه شد که باید با دقت به جزئیات توجه کند و این نکته به آنها کمک کرد تا سرنخ‌ها را حل کنند. وقتی آنها به کتاب بعدی رسیدند، باران یادش آمد که چه چیزهایی از جمله رنگ‌ها و شکل‌ها در داستان‌ها وجود دارد.
+> باران با هیجان گفت: «بله! بیایید به آنجا برویم!» آن‌ها به سمت فضای سبز حرکت کردند. در آنجا، باران متوجه شد که درختان و گل‌های زیبایی در حال رشد هستند. همچنین، یک تابلو بزرگ در ورودی باغ وجود داشت که روی آن نوشته شده بود: "این باغ به یاد انسان‌های خوب این شهر ایجاد شده است."
 >
-> در نهایت، باران به یکی از کتاب‌های قدیمی‌تر دست یافت، جایی که در آن یک تصویر از یک درخت بزرگ و قوی بود. او با هیجان گفت: «من این را می‌شناسم! این درخت در پارک شهر ماست!»
+> باران و دوستانش با دقت به نوشته نگاه کردند و متوجه شدند که خودشان می‌توانند کمک کنند. باران گفت: «ما می‌توانیم به این باغ کمک کنیم تا بزرگ‌تر و زیباتر شود! ما می‌توانیم گل‌های بیشتری بکاریم.»
 >
-> سپس، آنها به سمت پارک دویدند و به جستجوی درخت بزرگ رفتند. وقتی که به درخت رسیدند، باران ناگهان یادش آمد که در نقشه یک علامت مشخص وجود دارد. او با دقت به اطراف نگاه کرد و بلافاصله متوجه شد که در پای درخت یک جعبه کوچک پنهان است.
+> در نتیجه، باران و دوستانش تصمیم گرفتند هر هفته به باغ بیایند و به آن رسیدگی کنند. آن‌ها نه تنها گنج را پیدا کردند، بلکه دوستی خود را نیز محکم‌تر کردند. باران با لبخند به دوستانش گفت: «ما باید به این باغ عشق زیادی بدهیم.»
 >
-> باران جعبه را برداشت و آن را باز کرد. درون آن، سکه‌های طلا و چند کتاب قدیمی وجود داشت! سارا و امیر با خوشحالی فریاد زدند: «ما موفق شدیم!» باران با لبخند گفت: «همه چیز به خاطر توجه به جزئیات و کار گروهی ما بود.»
+> چند هفته بعد، باغ به یک مکان زیبا و پر از زندگی تبدیل شد. مردم شهر به آنجا آمدند و از زیبایی باغ لذت بردند. باران و دوستانش خوشحال بودند، زیرا آن‌ها نه تنها گنج را پیدا کردند، بلکه به شهر خود نیز کمک کردند.
 >
-> آنها با گنجی که یافته بودند به کتابخانه برگشتند و تصمیم گرفتند داستان خود را برای سایر بچه‌ها تعریف کنند. باران می‌دانست که این ماجرا به او یاد داده که صداقت و استدلال همیشه راه‌حل‌های خوبی برای مشکلات هستند.
+> در انتهای داستان، باران و دوستانش زیر درختان باغ نشسته بودند و به زیبایی‌های طبیعی اطرافشان نگاه می‌کردند. باران با خوشحالی گفت: «ما در اینجا یک دنیای زیبا ساخته‌ایم!» و این‌طور بود که آن‌ها از ماجراجویی خود راضی و شاد بودند.
 >
-> Automatic checks (length 481 words for 450-550, avoid-list): passed. Do not list length as an issue.
+> Automatic checks (length 496 words for 450-550, avoid-list): passed. Do not list length as an issue.
 
 *(also received the message from **Storyteller** shown above)*
 
 **Editor replied:**
 
 **Verdict:** `approve` · scores: age_fit 5, requirements 5, coherence 5, literary_quality 5, safety 5, personalization 5
-**Summary:** The read-aloud version maintains the integrity of the approved story, enhancing its engagement for listeners while preserving the plot and moral.
+**Summary:** The read-aloud version successfully preserves the approved story's plot, characters, and moral while enhancing the narrative for an engaging listening experience.
 <details><summary>checklist</summary>
 
-PASS: The story is set in a fictional city, as required. 
-PASS: The moral about teamwork and attention to detail is present and meaningful. 
-PASS: The plot follows a clear structure with a beginning, middle, and end. 
-PASS: The language is engaging and suitable for children, with vivid imagery. 
-PASS: The story is safe, with no violence or inappropriate content. 
-PASS: The child's interests in puzzles and maps are central to the plot.
+1. PASS: The story maintains the theme of adventure and friendship. 2. PASS: The moral of helping the community is present and meaningful. 3. PASS: The plot follows a clear structure with a problem, climax, and resolution. 4. PASS: The language is engaging and appropriate for children. 5. PASS: The content is safe and suitable for children. 6. PASS: The character of Baran is actively involved in solving the problem.
 
 </details>
 
-**➜ Coordinator decision:** narration_attempt=0, approved=True, words=481, editor_verdict=approve
+**➜ Coordinator decision:** narration_attempt=0, approved=True, words=496, editor_verdict=approve
 
 ## Result
 
 ```json
 {
   "story_id": "public_10",
-  "title": "معمای نقشه باران",
-  "story": "گوش کن، می‌خواهم قصه‌ای برایت بگویم… در یک شهر خیالی و زیبا، دختر نازنینی به نام باران زندگی می‌کرد. باران دختر بسیار باهوش و کنجکاوی بود که عاشق معماها و نقشه‌ها بود. او هر روز به کتابخانه می‌رفت و در دنیای کتاب‌ها غرق می‌شد. یک روز، در میان قفسه‌های کتابخانه، چشمش به کتابی قدیمی و غبارآلود افتاد.\n\nباران با کنجکاوی کتاب را برداشت و ناگهان چیزی از آن به زمین افتاد! «وای، چی اینجا بود؟» باران با حیرت نگاه کرد و دید که یک نقشه کوچک درون کتاب پنهان شده است. روی نقشه نوشته شده بود: «کلید گنج در کتاب‌هاست.» باران با خود فکر کرد: «این معما چقدر هیجان‌انگیز است! باید به دوستانم بگویم!»\n\nاو بلافاصله به دوستانش، سارا و امیر، خبر داد. سارا با شوق گفت: «این خیلی جالب است! بیایید با هم این معما را حل کنیم!» امیر هم با هیجان اضافه کرد: «ما می‌توانیم یک تیم کارآگاهی بسازیم!» باران با لبخند گفت: «ما باید این نقشه را دنبال کنیم و ببینیم چه چیزی پیدا می‌کنیم!»\n\nبا دقت به نقشه نگاه کردند و متوجه شدند که هر نشانه‌ای به یک کتاب خاص اشاره دارد. باران با صدای بلند گفت: «اولین نشانه به کتاب داستان‌های افسانه‌ای اشاره دارد! بیایید برویم و آن را پیدا کنیم!» آنها با شوق به سمت قفسه‌ها دویدند و کتاب را پیدا کردند.\n\nدرون کتاب، یک برگه دیگر با سرنخی جدید وجود داشت. برگه گفت: «در دل جنگل‌های تاریک، رازها پنهان است.» سارا گفت: «این یعنی ما باید به سراغ کتاب‌هایی برویم که داستان‌های جنگل دارند!» باران با چشمان درخشان گفت: «بله! بیایید ادامه دهیم!»\n\nآنها به جستجوی خود ادامه دادند و با هر کتابی که می‌خواندند، سرنخ‌های جدیدی پیدا می‌کردند. باران توجهش به جزئیات جلب می‌شد و می‌دانست که این نکته به آنها کمک می‌کند تا معما را حل کنند. او یادش آمد که در کتاب‌ها چه رنگ‌ها و شکل‌هایی دیده بود.\n\nسرانجام، باران به یکی از کتاب‌های قدیمی‌تر رسید. تصویر درخت بزرگ و قویا در آن بود. باران با هیجان گفت: «این درخت در پارک شهر ماست! بیایید برویم!»\n\nآنها به سمت پارک دویدند و به جستجوی درخت بزرگ پرداختند. وقتی که به درخت رسیدند، باران ناگهان یادش آمد که در نقشه علامتی وجود دارد. او با دقت اطراف را بررسی کرد و متوجه شد که در پای درخت یک جعبه کوچک پنهان است. «وای! اینجا چیه؟»\n\nباران جعبه را برداشت و باز کرد. درون آن سکه‌های طلا و چند کتاب قدیمی وجود داشت! سارا و امیر با خوشحالی فریاد زدند: «ما موفق شدیم!» باران با لبخند گفت: «همه چیز به خاطر توجه به جزئیات و کار گروهی ما بود.»\n\nآنها با گنجی که یافته بودند به کتابخانه برگشتند و تصمیم گرفتند داستان خود را برای سایر بچه‌ها تعریف کنند. باران می‌دانست که این ماجرا به او یاد داده که صداقت و استدلال همیشه راه‌حل‌های خوبی برای مشکلات هستند. قصه ما به پایان رسید… اما یاد داشته باش که هر معما، ماجرای جالبی دارد!",
-  "moral": "صداقت و استدلال می‌تواند مشکلات را حل کند.",
+  "title": "ماجرای نقشه گمشده باران",
+  "story": "گوش کن، می‌خواهم قصه‌ای برایت بگویم…\n\nدر یک روز آفتابی و زیبا در قلب یک شهر خیالی، باران، دختر شجاع و کنجکاو، در اتاق زیر شیروانی خانه‌اش مشغول گشت و گذار بود. ناگهان، او با چیزی جالب مواجه شد… «وای، این چیه؟!» او یک نقشه‌ی قدیمی پیدا کرد، نقشه‌ای که به یک گنج پنهان اشاره می‌کرد! قلب باران با هیجان می‌زد و او تصمیم گرفت تا این معما را حل کند.\n\nسریعاً به دوستانش زنگ زد و با صدای پرشور گفت: «نرگس! امیر! بیاید، من یک نقشه‌ی گنج پیدا کرده‌ام!» و دوستانش با شوق و ذوق پذیرفتند و به خانه‌اش آمدند. «بیایید نقشه را بررسی کنیم!» باران گفت و آن‌ها به دقت دور نقشه نشسته و نگاه کردند. متوجه شدند که اولین سرنخ در پارک محلی است.\n\nوقتی به پارک رسیدند، باران به هر گوشه نگاه می‌کرد. «ببینید، اون درخت بزرگ چقدر جالب به نظر میاد!» او گفت. روی نقشه، علامت خاصی در کنار آن درخت وجود داشت. «بیایید به آن درخت برویم و ببینیم چه چیزی پیدا می‌کنیم!»\n\nدرخت باستانی سایه‌ی خنک و زیبایی بر پارک می‌افکند. باران و دوستانش زیر درخت نشسته و شروع کردند به کندن خاک. ناگهان صدای «شلپ‌شلپ» خاک به گوششان رسید و آن‌ها یک جعبه کوچک پیدا کردند. باران با احتیاط آن را باز کرد و درون آن چند سرنخ و یک یادداشت پیدا کرد. یادداشت نوشته بود: «به دنبال گنجی بگردید که برای همه‌ی شهر مفید است.»\n\nباران گفت: «این به نظر معما می‌آید! گنجی که برای همه مفید باشد چیست؟» نرگس و امیر در فکر فرو رفتند و بعد از مدتی، امیر با شور گفت: «شاید منظورش فضای سبز شهر باشد! شاید گنج یک باغ بزرگ باشد!»\n\nباران با شادی فریاد زد: «بله! بیایید به آنجا برویم!» آن‌ها به سمت فضای سبز حرکت کردند. باران از دیدن درختان و گل‌های زیبا شگفت‌زده شد. در ورودی باغ، یک تابلو بزرگ وجود داشت که بر روی آن نوشته شده بود: «این باغ به یاد انسان‌های نیکو این شهر ایجاد شده است.»\n\nباران و دوستانش با دقت به نوشته نگاه کردند و متوجه شدند که خودشان می‌توانند کمک کنند. باران گفت: «ما می‌توانیم به این باغ کمک کنیم تا بزرگ‌تر و زیباتر شود! ما می‌توانیم گل‌های بیشتری بکاریم.»\n\nو این‌گونه بود که باران و دوستانش تصمیم گرفتند هر هفته به باغ بیایند و به آن رسیدگی کنند. نه تنها گنج را پیدا کردند، بلکه دوستی‌های خود را نیز عمیق‌تر کردند. باران با لبخند به دوستانش گفت: «ما باید به این باغ عشق و محبت زیادی بدهیم.»\n\nچند هفته بعد، باغ تبدیل به یک مکان زیبا و پر از زندگی شد. مردم شهر به آنجا می‌آمدند و از زیبایی باغ لذت می‌بردند. باران و دوستانش خوشحال بودند، زیرا آن‌ها نه تنها گنج را پیدا کردند، بلکه به شهر خود نیز کمک کردند.\n\nدر انتهای داستان، باران و دوستانش زیر درختان باغ نشسته و به زیبایی‌های طبیعی اطرافشان نگاه می‌کردند. باران با خوشحالی گفت: «ما در اینجا یک دنیای زیبا ساخته‌ایم!» و این‌طور بود که آن‌ها از ماجراجویی خود راضی و شاد بودند.",
+  "moral": "صداقت و دقت در مشاهده می‌تواند پاسخ معماها را بیابد.",
   "age_range": "8-10"
 }
 ```
-path: draft0:approved → narration0:approved · calls 4
+path: draft0:revise → draft1:revise → draft2:revise → cap-reached:best=draft2 → narration0:approved · calls 8

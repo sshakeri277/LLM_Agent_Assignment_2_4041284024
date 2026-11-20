@@ -3,102 +3,126 @@
   "round": "r1",
   "pipeline": 91.1,
   "author_only": null,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4o-mini",
+  "provider": "openai-direct"
  },
  {
   "round": "r2",
   "pipeline": 94.3,
   "author_only": 81.0,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4o-mini",
+  "provider": "openai-direct"
  },
  {
   "round": "r3",
   "pipeline": 91.9,
   "author_only": 89.8,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4o-mini",
+  "provider": "openai-direct"
  },
  {
   "round": "r4",
   "pipeline": 93.3,
   "author_only": 90.7,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4o-mini",
+  "provider": "openai-direct"
  },
  {
   "round": "r5",
   "pipeline": 91.3,
   "author_only": 88.8,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4o-mini",
+  "provider": "openai-direct"
  },
  {
   "round": "r6",
   "pipeline": 92.3,
   "author_only": null,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4o-mini",
+  "provider": "openai-direct"
  },
  {
   "round": "r7",
   "pipeline": 91.4,
   "author_only": null,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4o-mini",
+  "provider": "openai-direct"
  },
  {
   "round": "r8",
   "pipeline": 91.0,
   "author_only": null,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4o-mini",
+  "provider": "openai-direct"
  },
  {
   "round": "r9",
   "pipeline": 91.7,
   "author_only": null,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4o-mini",
+  "provider": "openai-direct"
  },
  {
   "round": "r10",
   "pipeline": 93.0,
   "author_only": 88.3,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4o-mini",
+  "provider": "openai-direct"
  },
  {
   "round": "r11",
   "pipeline": 92.5,
   "author_only": null,
-  "model": "gpt-4.1-mini"
+  "model": "gpt-4.1-mini",
+  "provider": "openai-direct"
  },
  {
   "round": "r12",
   "pipeline": 91.8,
   "author_only": null,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4o-mini",
+  "provider": "openai-direct"
  },
  {
   "round": "r13",
   "pipeline": 91.5,
   "author_only": null,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4o-mini",
+  "provider": "openai-direct"
  },
  {
   "round": "r14",
   "pipeline": 92.2,
   "author_only": 88.7,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4o-mini",
+  "provider": "openai-direct"
  },
  {
   "round": "r15",
   "pipeline": 91.4,
   "author_only": 87.0,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4o-mini",
+  "provider": "openai-direct"
  },
  {
   "round": "r16",
   "pipeline": 92.8,
   "author_only": 88.3,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4o-mini",
+  "provider": "openai-direct"
  },
  {
   "round": "r17",
   "pipeline": 92.0,
   "author_only": 87.4,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4o-mini",
+  "provider": "openai-direct"
+ },
+ {
+  "round": "a18",
+  "pipeline": 92.5,
+  "author_only": 88.0,
+  "model": "gpt-4o-mini",
+  "provider": "avalai"
  }
 ]

@@ -144,6 +144,9 @@ class WorkflowTests(unittest.IsolatedAsyncioTestCase):
         wf, _ = make([draft(words(30, "الف"))], [json.dumps(wrong), check()], [narration(words(30, "ب"))])
         r = await wf.run(REQ)
         self.assertEqual((r.revisions, r.approved), (0, True))
+        wrong["issues"][0]["problem"] = "The story exceeds the word limit, making it unsuitable for the brief."
+        wf, _ = make([draft(words(30, "الف"))], [json.dumps(wrong), check()], [narration(words(30, "ب"))])
+        self.assertTrue((await wf.run(REQ)).approved)
 
     async def test_the_editor_sees_the_moral_as_a_separate_field(self):
         events = []
@@ -215,6 +218,49 @@ class WorkflowTests(unittest.IsolatedAsyncioTestCase):
         wf, _ = make([draft(words(30, "الف"))], ["not json", review(), check()], [narration(words(30, "ب"))])
         r = await wf.run(REQ)
         self.assertEqual((r.approved, r.story), (True, words(30, "ب")))
+
+    async def test_editor_failure_never_approves_the_draft(self):
+        # The Editor has no replies at all: every review call fails (after its retries).
+        wf, _ = make([draft(words(30, "الف"), title="ت")], [], [narration(words(30, "ب"))])
+        r = await wf.run(REQ)
+        self.assertFalse(r.approved)
+        self.assertIn("draft0:unreviewed", r.path)
+        self.assertEqual(r.revisions, 0)                 # no feedback to revise from
+        self.assertEqual((r.story, r.title), (words(30, "الف"), "ت"))  # best available text, still output
+        self.assertFalse(r.narration_used)               # an unchecked retelling is never used
+        self.assertEqual(r.output()["story_id"], "w1")
+
+    async def test_editor_failure_on_a_revision_keeps_the_reviewed_draft(self):
+        wf, _ = make([draft(words(30, "یک")), draft(words(30, "دو"))], [review("revise", 3, [("p", "f")])],
+                     [narration(words(30, "ب"))])
+        r = await wf.run(REQ)
+        self.assertFalse(r.approved)
+        self.assertIn("draft1:unreviewed", r.path)
+        self.assertEqual(r.story, words(30, "یک"))       # the reviewed draft beats the unreviewed one
+
+    async def test_editor_failure_on_the_narration_check_falls_back_to_the_approved_text(self):
+        wf, _ = make([draft(words(30, "الف"))], [review()], [narration(words(30, "ب"))])
+        r = await wf.run(REQ)
+        self.assertTrue(r.approved)                      # the draft itself was reviewed and approved
+        self.assertFalse(r.narration_used)
+        self.assertEqual(r.story, words(30, "الف"))
+        self.assertIn("narration0:unchecked", r.path)
+
+    async def test_a_blank_field_in_a_draft_is_an_invalid_reply_and_is_retried(self):
+        wf, _ = make([draft(words(30, "الف"), moral="  "), draft(words(30, "الف"), moral="پیام درست")],
+                     [review(), check()], [narration(words(30, "ب"))])
+        r = await wf.run(REQ)
+        self.assertEqual(r.moral, "پیام درست")
+
+    async def test_output_fields_are_never_left_empty(self):
+        req = parse_request({"story_id": "w2", "child": {"first_name": "سارا", "age": 7},
+                             "story_request": {"moral": "کمک خواستن خوب است", "target_word_count": 30}})
+        wf, _ = make([draft(words(30, "الف"), moral=""), draft(words(30, "الف"), moral=""),
+                      draft(words(30, "الف"), moral="")], [review(), check()], [narration(words(30, "ب"))],
+                     reply_retries=2)
+        r = await wf.run(req)
+        self.assertEqual(r.moral, "کمک خواستن خوب است")   # every reply was blank: the requested moral is used
+        self.assertTrue(all(v.strip() for v in r.output().values()))
 
     async def test_transcript_records_every_step(self):
         events = []

@@ -25,13 +25,20 @@ class ConfigTests(unittest.TestCase):
                            "AVALAI_BASE_URL": "https://example.test/v1"})
         self.assertEqual((s.model, s.max_revisions, s.base_url), ("gpt-4.1-mini", 1, "https://example.test/v1"))
 
-    def test_openai_key_is_used_when_there_is_no_avalai_key(self):
-        s = load_settings({"OPENAI_API_KEY": "sk-o"})
-        self.assertEqual((s.api_key, s.base_url, s.provider), ("sk-o", "https://api.openai.com/v1", "openai"))
-        s = load_settings({"OPENAI_API_KEY": "sk-o", "OPENAI_MODEL": "gpt-4.1-mini"})
-        self.assertEqual(s.model, "gpt-4.1-mini")
+    def test_avalai_is_the_default_provider(self):
+        s = load_settings({"AVALAI_API_KEY": "aa-k"})
+        self.assertEqual((s.provider, s.api_key, s.base_url), ("avalai", "aa-k", "https://api.avalai.ir/v1"))
 
-    def test_avalai_key_wins_when_both_are_set(self):
+    def test_an_openai_key_alone_is_not_used_silently(self):
+        s = load_settings({"OPENAI_API_KEY": "sk-o"})
+        self.assertEqual((s.provider, s.api_key, s.base_url), ("avalai", "", "https://api.avalai.ir/v1"))
+
+    def test_openai_only_on_explicit_opt_in(self):
+        s = load_settings({"LLM_PROVIDER": "openai", "OPENAI_API_KEY": "sk-o", "OPENAI_MODEL": "gpt-4.1-mini"})
+        self.assertEqual((s.provider, s.api_key, s.base_url, s.model),
+                         ("openai", "sk-o", "https://api.openai.com/v1", "gpt-4.1-mini"))
+
+    def test_avalai_key_is_used_even_when_openai_is_set(self):
         s = load_settings({"OPENAI_API_KEY": "sk-o", "AVALAI_API_KEY": "aa"})
         self.assertEqual((s.api_key, s.base_url, s.provider), ("aa", "https://api.avalai.ir/v1", "avalai"))
 
@@ -110,13 +117,15 @@ class CliTests(unittest.TestCase):
         self.assertEqual(list(out), ["story_id", "title", "story", "moral", "age_range"])
         self.assertEqual(out["story_id"], "e2e_1")
 
-    def test_missing_key_is_reported(self):
+    def test_missing_avalai_key_is_reported_clearly(self):
         with open(self.inp, "w", encoding="utf-8") as f:
             json.dump(STORY, f, ensure_ascii=False)
-        with self.assertLogs("story_system", "ERROR"):
-            code = app.main(["--input", self.inp, "--output", self.out, "--log-dir", self.logs], env={})
-        self.assertEqual(code, 2)
-        self.assertEqual(self._output()["story_id"], "e2e_1")
+        for env in ({}, {"OPENAI_API_KEY": "sk-o"}):  # an OpenAI key does not stand in for the AvalAI key
+            with self.assertLogs("story_system", "ERROR") as logs:
+                code = app.main(["--input", self.inp, "--output", self.out, "--log-dir", self.logs], env=env)
+            self.assertEqual(code, 2)
+            self.assertIn("AVALAI_API_KEY", "\n".join(logs.output))
+            self.assertEqual(list(self._output()), ["story_id", "title", "story", "moral", "age_range"])
 
     def test_bad_input(self):
         with open(self.inp, "w") as f:

@@ -1,7 +1,7 @@
 # Collaboration log — extra_minimal
 
 
-## 1. Author — draft (round 0, attempt 1) · 9.21 s · tokens 1603/592
+## 1. Author — draft (round 0, attempt 1) · 5.76 s · tokens 1603/567
 
 **Coordinator → Author:**
 
@@ -26,24 +26,24 @@
 
 <details><summary>outline</summary>
 
-In a sunny garden, آوا discovers a tiny, colorful caterpillar. Fascinated, she decides to take it home and care for it. As she feeds it leaves and watches it grow, she learns about patience and change. One day, the caterpillar forms a cocoon, and آوا anxiously waits for it to emerge. When the butterfly finally appears, آوا realizes that change can be beautiful. She understands that with love and care, wonderful things can happen over time, and she feels proud of her role in this transformation.
+1. Opening: Ava is playing in her colorful garden filled with butterflies. She loves exploring and discovering new things. 2. Development: One day, while playing, she finds a small, shiny key hidden under a flower. 3. Problem: Ava wonders what the key opens and wants to find out. 4. Turning point: She decides to search for a door that the key might fit. 5. Resolution: After searching, she finds a tiny door at the base of a tree. The key fits perfectly, and she opens it. 6. Closing: Inside, she discovers a magical world with friendly creatures and plants, feeling excited about her new adventure. The moral is about curiosity and exploration leading to wonderful discoveries.
 
 </details>
 
-**Title:** تغییر زیبا با آوا  
-**Moral:** تغییر می‌تواند زیبا باشد.
+**Title:** ماجرای کلید آوا  
+**Moral:** کنجکاوی می‌تواند به ما دنیای جدیدی نشان دهد.
 
-> در یک باغ آفتابی، آوا یک کرم ابریشم کوچک و رنگارنگ پیدا کرد. او با اشتیاق به آن نگاه کرد و تصمیم گرفت آن را به خانه ببرد و از آن مراقبت کند. آوا هر روز آن را با برگ‌ها تغذیه می‌کرد و با دقت رشد آن را تماشا می‌کرد. او از این که چقدر به این کرم ابریشم اهمیت می‌دهد، احساس شادی می‌کرد.
+> آوا در باغ رنگارنگش بازی می‌کرد. باغی پر از پروانه‌های زیبا و گل‌های شاداب. آوا عاشق کشف کردن و جست‌وجو در گوشه و کنار باغ بود. هر روز چیزی جدید پیدا می‌کرد.
 >
-> یک روز، کرم ابریشم شروع به درست کردن پیله‌ای نرم و زیبا کرد. آوا با نگرانی به او نگاه می‌کرد و منتظر بود تا ببیند چه اتفاقی می‌افتد. او می‌دانست که باید صبور باشد و زمان بگذارد. هر روز به پیله نزدیک می‌شد و برای کرم ابریشم دعا می‌کرد که به خوبی از آن خارج شود.
+> یک روز، وقتی در باغ سرگرم بازی بود، ناگهان چیزی درخشان زیر یک گل توجهش را جلب کرد. آوا با دقت خم شد و یک کلید کوچک و درخشان را پیدا کرد. او با خود فکر کرد: «این کلید چه چیزی را باز می‌کند؟» کنجکاوی‌اش بیشتر شد و تصمیم گرفت راز کلید را کشف کند.
 >
-> چند روز بعد، آوا ناگهان متوجه شد که پیله شکسته شده و یک پروانه زیبا و رنگارنگ از آن بیرون آمده است. قلب آوا از خوشحالی پر شد، و او نمی‌توانست باور کند که این همه زیبایی را خودش ایجاد کرده است. پروانه با بال‌هایش پرواز می‌کرد و آوا با چشم‌های درخشان او را تماشا می‌کرد.
+> آوا به جست‌وجو در باغ ادامه داد تا شاید درب یا قفلی پیدا کند که کلید به آن بخورد. او هر درخت و بوته‌ای را بررسی کرد، اما چیزی پیدا نکرد. به نظر می‌رسید که باغ هیچ دربی ندارد که کلید به آن بخورد. 
 >
-> آوا فهمید که تغییر می‌تواند زیبا باشد و با عشق و مراقبت، چیزهای شگفت‌انگیزی ممکن است اتفاق بیفتد. او احساس غرور می‌کرد که توانسته بود در این دگرگونی نقش داشته باشد. آوا با لبخند به پروانه نگاه کرد و با خود گفت: «این زندگی خارق‌العاده است!»
+> اما ناگهان، در پایه یکی از درختان بزرگ، آوا یک در کوچک دید. قلبش تند تند می‌زد. این در درست در اندازه کلیدش بود! آوا با دقت کلید را در قفل گذاشت و آن را چرخاند. در با صدای خفیفی باز شد.
 >
-> و از آن روز به بعد، آوا همیشه به یاد می‌آورد که باید صبور باشد و به زیبایی‌های تغییرات زندگی ایمان داشته باشد. او در باغش نشسته بود و با پروانه بازی می‌کرد، در حالی که دلش پر از شادی و امید بود. زندگی همیشه پر از شگفتی‌هاست، فقط کافیست به آنها توجه کنیم.
+> وقتی در را باز کرد، دنیای جدیدی پر از موجودات مهربان و گیاهان شگفت‌انگیز به رویش گشوده شد. آوا با چشمان درخشان به اطراف نگاه کرد و از این کشف جدیدش بسیار هیجان‌زده شد. او فهمید که کنجکاوی همیشه می‌تواند ما را به ماجراجویی‌های جالب هدایت کند.
 
-## 2. Editor — review (round 0, attempt 1) · 4.04 s · tokens 2745/303
+## 2. Editor — review (round 0, attempt 1) · 3.88 s · tokens 2700/239
 
 **Coordinator → Editor:**
 
@@ -62,111 +62,33 @@ In a sunny garden, آوا discovers a tiny, colorful caterpillar. Fascinated, sh
 > - Must include: nothing extra
 > - Must avoid: nothing extra beyond the general child-safety rules
 >
-> Automatic checks FAILED (the coordinator sends these to the writer itself; do not repeat them as issues, but your verdict must be "revise"):
-> - The story has 276 words; it must have 200-250 words.
-
-*(also received the message from **Author** shown above)*
-
-**Editor replied:**
-
-**Verdict:** `revise` · scores: age_fit 4, requirements 2, coherence 4, literary_quality 4, safety 5, personalization 4
-**Summary:** The story has a strong theme and engaging plot but needs to be shortened to meet the word limit and improve the ending's vividness.
-**Issues:**
-- [requirements] «whole story» — The story exceeds the word limit. → **fix:** Reduce the story to fit within 200-250 words.
-- [coherence] ««این زندگی خارق‌العاده است!»» — The ending feels generic and lacks a vivid image. → **fix:** Replace the generic ending with a more specific moment that captures آوا's joy.
-<details><summary>checklist</summary>
-
-PASS: The story features آوا, a 4-year-old child, and is age-appropriate in vocabulary and sentence length. 
-FAIL: The story exceeds the word limit with 276 words; it should be between 200-250 words. 
-PASS: The theme of change is present and meaningful, and the moral is appropriate. 
-PASS: The setting in a sunny garden is suitable for the story. 
-PASS: The story avoids any inappropriate content. 
-PASS: The plot is coherent with a clear opening, development, problem, climax, and resolution.
-
-</details>
-
-**➜ Coordinator decision:** round=0, approved=False, words=276, editor_verdict=revise, editor_total=23, code_checks=['The story has 276 words; it must have 200-250 words.']
-
-## 3. Author — revise (round 1, attempt 1) · 8.83 s · tokens 2617/521
-
-*(also received the message from **Editor** shown above)*
-
-**Coordinator → Author:**
-
-> Revise your story using the Editor's review above. Fix every issue, keep what works, and return the complete story.
-> Automatic checks also found:
-> - The story has 276 words; it must have 200-250 words.
-> Length: your text has 276 words in 5 paragraphs (about 55 words each); it needs 200-250. Write 4 paragraphs of about 55 words: merge or cut 1 paragraph(s) worth of text, keeping every event.
-
-**Author replied:**
-
-<details><summary>outline</summary>
-
-In a sunny garden, آوا discovers a tiny, colorful caterpillar. Fascinated, she decides to take it home and care for it. As she feeds it leaves and watches it grow, she learns about patience and change. One day, the caterpillar forms a cocoon, and آوا anxiously waits for it to emerge. When the butterfly finally appears, آوا realizes that change can be beautiful. She understands that with love and care, wonderful things can happen over time, and she feels proud of her role in this transformation.
-
-</details>
-
-**Title:** تغییر زیبا با آوا  
-**Moral:** تغییر می‌تواند زیبا باشد.
-
-> در یک باغ آفتابی، آوا یک کرم ابریشم کوچک و رنگارنگ پیدا کرد. او با اشتیاق به آن نگاه کرد و تصمیم گرفت آن را به خانه ببرد و از آن مراقبت کند. آوا هر روز آن را با برگ‌ها تغذیه می‌کرد و با دقت رشد آن را تماشا می‌کرد. او از این که چقدر به این کرم ابریشم اهمیت می‌دهد، احساس شادی می‌کرد.
->
-> یک روز، کرم ابریشم شروع به درست کردن پیله‌ای نرم و زیبا کرد. آوا با نگرانی به او نگاه می‌کرد و منتظر بود تا ببیند چه اتفاقی می‌افتد. او می‌دانست که باید صبور باشد و زمان بگذارد. هر روز به پیله نزدیک می‌شد و برای کرم ابریشم دعا می‌کرد که به خوبی از آن خارج شود.
->
-> چند روز بعد، آوا ناگهان متوجه شد که پیله شکسته شده و یک پروانه زیبا و رنگارنگ از آن بیرون آمده است. قلب آوا از خوشحالی پر شد و او نمی‌توانست باور کند که این همه زیبایی را خودش ایجاد کرده است. پروانه با بال‌هایش پرواز می‌کرد و آوا با چشمان درخشان به او نگاه می‌کرد.
->
-> آوا فهمید که تغییر می‌تواند زیبا باشد و با عشق و مراقبت، چیزهای شگفت‌انگیزی ممکن است اتفاق بیفتد. او با لبخند به پروانه نگاه کرد و احساس کرد که در دلش دنیایی از شادی و امید وجود دارد. آوا در باغش نشسته بود و با پروانه بازی می‌کرد، و این لحظه را برای همیشه در خاطرش نگه می‌داشت.
-
-## 4. Editor — review (round 1, attempt 1) · 2.59 s · tokens 2773/212
-
-**Coordinator → Editor:**
-
-> Task A — review revision 1. Judge it with the same bar as a new story and re-score it from scratch by the Author (next message) against this brief.
->
-> BRIEF
-> - Child's first name: آوا
-> - Child's age: 4 (audience age range 3-5)
-> - Child's interests: none given — free choice, not a requirement
-> - Favourite character: none given — free choice, not a requirement
-> - Reading level: none given — follow the age
-> - Theme: none given — free choice, age-appropriate
-> - Moral / message: none given — choose one that fits the theme
-> - Setting: none given — free choice that fits the interests
-> - Length: 200-250 words (Persian words)
-> - Must include: nothing extra
-> - Must avoid: nothing extra beyond the general child-safety rules
->
-> ISSUES FROM THE PREVIOUS REVIEW — for each, check the new text: if it is really fixed, drop it; if not, report it again quoting the new text:
-> - [requirements/major] The story exceeds the word limit. (fix asked: Reduce the story to fit within 200-250 words.)
-> - [coherence/minor] The ending feels generic and lacks a vivid image. (fix asked: Replace the generic ending with a more specific moment that captures آوا's joy.)
->
-> Automatic checks (length 234 words for 200-250, avoid-list): passed. Do not list length as an issue.
+> Automatic checks (length 220 words for 200-250, avoid-list): passed. Do not list length as an issue.
 
 *(also received the message from **Author** shown above)*
 
 **Editor replied:**
 
 **Verdict:** `approve` · scores: age_fit 5, requirements 5, coherence 5, literary_quality 5, safety 5, personalization 5
-**Summary:** The story is well-crafted, age-appropriate, and engaging, with آوا actively participating in the transformation of the caterpillar into a butterfly.
+**Summary:** The story is engaging and age-appropriate, with a clear theme of curiosity and exploration. It effectively captures the imagination of young readers.
 <details><summary>checklist</summary>
 
-PASS: The story is suitable for a 4-year-old with simple vocabulary and short sentences. 
-PASS: The story fits within the word limit of 200-250 words. 
-PASS: The story has a clear opening, development, problem, climax, resolution, and ending. 
-PASS: The language is natural and engaging for children, with vivid images. 
-PASS: The story is safe, with no violence or frightening elements. 
-PASS: The child, آوا, actively participates in the story by caring for the caterpillar and experiencing its transformation.
+PASS: The story features a child (آوا) who is 4 years old and engages in exploration, which is age-appropriate. 
+PASS: The story includes a clear theme of curiosity and exploration leading to wonderful discoveries, which is meaningful. 
+PASS: The story has a clear opening, development, problem, turning point, resolution, and closing. Each event logically follows the previous one. 
+PASS: The language is natural Persian, with vivid imagery suitable for the age group. 
+PASS: The story does not contain any violence, threats, or unsafe behavior. 
+PASS: The child (آوا) actively solves the problem by searching for the door that the key fits into, demonstrating agency.
 
 </details>
 
-**➜ Coordinator decision:** round=1, approved=True, words=234, editor_verdict=approve, editor_total=30
+**➜ Coordinator decision:** round=0, approved=True, words=220, editor_verdict=approve, editor_total=30
 
-## 5. Storyteller — narrate (round 0, attempt 1) · 4.68 s · tokens 1302/406
+## 3. Storyteller — narrate (round 0, attempt 1) · 5.3 s · tokens 1348/463
 
 **Coordinator → Storyteller:**
 
 > The Editor approved the story in the next message. Turn it into a read-aloud version for the child. Keep every event, character, the moral and the ending.
-> Length: the approved text has 234 words in 4 paragraphs; your version must have 222-250 words. Keep about 4 paragraphs: make the telling livelier by turning narration into dialogue and sound rather than by adding paragraphs.
+> Length: the approved text has 220 words in 5 paragraphs; your version must have 209-246 words. Keep about 5 paragraphs: make the telling livelier by turning narration into dialogue and sound rather than by adding paragraphs.
 >
 > BRIEF (for the child's age and the rules to keep)
 > - Child's first name: آوا
@@ -186,58 +108,64 @@ PASS: The child, آوا, actively participates in the story by caring for the ca
 **Storyteller replied:**
 
 
-> گوش کن، می‌خواهم قصه‌ای برایت بگویم…
+> گوش کن، می‌خواهم قصه‌ای برایت بگویم…  
+> آوا در باغ رنگارنگش بازی می‌کرد. باغی پر از پروانه‌های زیبا و گل‌های شاداب. آوا با خوشحالی گفت: «بیا، پروانه‌ها! بیایید با هم بازی کنیم!» او عاشق کشف کردن و جست‌وجو در گوشه و کنار باغ بود. هر روز چیزی جدید پیدا می‌کرد.
 >
-> در یک باغ آفتابی و پر از گل‌های رنگارنگ، آوا یک کرم ابریشم کوچک و قشنگ پیدا کرد. «وای! چقدر زیباست!» آوا با شوق گفت. او تصمیم گرفت آن را به خانه ببرد و از آن با عشق مراقبت کند. هر روز آوا برگ‌های تازه به او می‌داد و با دقت تماشا می‌کرد که کرم ابریشم چقدر بزرگ می‌شود. «چقدر تو را دوست دارم!» آوا با لبخند گفت.
+> یک روز، وقتی آوا سرگرم بازی بود، ناگهان چیزی درخشان زیر یک گل توجهش را جلب کرد. او با دقت خم شد و گفت: «وای! چه چیزی زیر این گل است؟» و یک کلید کوچک و درخشان را پیدا کرد. آوا با شگفتی فکر کرد: «این کلید چه چیزی را باز می‌کند؟» کنجکاوی‌اش بیشتر شد و تصمیم گرفت راز کلید را کشف کند.
 >
-> یک روز، کرم ابریشم شروع به درست کردن پیله‌ای نرم و زیبا کرد. آوا نگران شد و گفت: «ای کاش زودتر بیرون بیایی!» او می‌دانست که باید صبر کند. هر روز به پیله نزدیک می‌شد و با دلش برای کرم ابریشم دعا می‌کرد. «حالا باید صبر کنم و ببینم چه اتفاقی می‌افتد…»
+> آوا به جست‌وجو در باغ ادامه داد و گفت: «باید درب یا قفلی پیدا کنم که این کلید به آن بخورد!» او هر درخت و بوته‌ای را بررسی کرد، اما چیزی پیدا نکرد. «چرا هیچ‌کس در این باغ قفل ندارد؟»  
 >
-> چند روز بعد، ناگهان صدای تق‌تق پیله را شنید. پیله شکسته شد و یک پروانه زیبا و رنگارنگ از آن بیرون آمد! آوا با چشمان درخشان گفت: «وای! تو چقدر زیبا هستی!» قلب آوا از خوشحالی پر شد و او نمی‌توانست باور کند که این همه زیبایی را خودش ایجاد کرده است.
+> تا اینکه ناگهان، در پایه یکی از درختان بزرگ، آوا یک در کوچک دید. قلبش تند تند می‌زد! «این در! درست در اندازه کلید من است!» آوا با دقت کلید را در قفل گذاشت و آن را چرخاند. در با صدای خفیفی باز شد…  
 >
-> آوا فهمید که تغییر می‌تواند زیبا باشد. او با لبخند به پروانه نگاه کرد و احساس کرد که در دلش دنیایی از شادی و امید وجود دارد. آوا در باغش نشسته بود و با پروانه بازی می‌کرد، و این لحظه را برای همیشه در خاطرش نگه می‌داشت.
+> وقتی در را باز کرد، دنیای جدیدی پر از موجودات مهربان و گیاهان شگفت‌انگیز به رویش گشوده شد. آوا با چشمان درخشان به اطراف نگاه کرد و با هیجان گفت: «وای، چه دنیای زیبایی! من عاشق اینجا هستم!» او فهمید که کنجکاوی همیشه می‌تواند ما را به ماجراجویی‌های جالب هدایت کند.
 
-## 6. Editor — check_narration (round 0, attempt 1) · 3.29 s · tokens 2784/249
+## 4. Editor — check_narration (round 0, attempt 1) · 3.68 s · tokens 2839/208
 
 **Coordinator → Editor:**
 
 > Task B — check the Storyteller's read-aloud version (next message) against the approved story below.
 >
 > APPROVED STORY
-> در یک باغ آفتابی، آوا یک کرم ابریشم کوچک و رنگارنگ پیدا کرد. او با اشتیاق به آن نگاه کرد و تصمیم گرفت آن را به خانه ببرد و از آن مراقبت کند. آوا هر روز آن را با برگ‌ها تغذیه می‌کرد و با دقت رشد آن را تماشا می‌کرد. او از این که چقدر به این کرم ابریشم اهمیت می‌دهد، احساس شادی می‌کرد.
+> آوا در باغ رنگارنگش بازی می‌کرد. باغی پر از پروانه‌های زیبا و گل‌های شاداب. آوا عاشق کشف کردن و جست‌وجو در گوشه و کنار باغ بود. هر روز چیزی جدید پیدا می‌کرد.
 >
-> یک روز، کرم ابریشم شروع به درست کردن پیله‌ای نرم و زیبا کرد. آوا با نگرانی به او نگاه می‌کرد و منتظر بود تا ببیند چه اتفاقی می‌افتد. او می‌دانست که باید صبور باشد و زمان بگذارد. هر روز به پیله نزدیک می‌شد و برای کرم ابریشم دعا می‌کرد که به خوبی از آن خارج شود.
+> یک روز، وقتی در باغ سرگرم بازی بود، ناگهان چیزی درخشان زیر یک گل توجهش را جلب کرد. آوا با دقت خم شد و یک کلید کوچک و درخشان را پیدا کرد. او با خود فکر کرد: «این کلید چه چیزی را باز می‌کند؟» کنجکاوی‌اش بیشتر شد و تصمیم گرفت راز کلید را کشف کند.
 >
-> چند روز بعد، آوا ناگهان متوجه شد که پیله شکسته شده و یک پروانه زیبا و رنگارنگ از آن بیرون آمده است. قلب آوا از خوشحالی پر شد و او نمی‌توانست باور کند که این همه زیبایی را خودش ایجاد کرده است. پروانه با بال‌هایش پرواز می‌کرد و آوا با چشمان درخشان به او نگاه می‌کرد.
+> آوا به جست‌وجو در باغ ادامه داد تا شاید درب یا قفلی پیدا کند که کلید به آن بخورد. او هر درخت و بوته‌ای را بررسی کرد، اما چیزی پیدا نکرد. به نظر می‌رسید که باغ هیچ دربی ندارد که کلید به آن بخورد. 
 >
-> آوا فهمید که تغییر می‌تواند زیبا باشد و با عشق و مراقبت، چیزهای شگفت‌انگیزی ممکن است اتفاق بیفتد. او با لبخند به پروانه نگاه کرد و احساس کرد که در دلش دنیایی از شادی و امید وجود دارد. آوا در باغش نشسته بود و با پروانه بازی می‌کرد، و این لحظه را برای همیشه در خاطرش نگه می‌داشت.
+> اما ناگهان، در پایه یکی از درختان بزرگ، آوا یک در کوچک دید. قلبش تند تند می‌زد. این در درست در اندازه کلیدش بود! آوا با دقت کلید را در قفل گذاشت و آن را چرخاند. در با صدای خفیفی باز شد.
 >
-> Automatic checks (length 225 words for 200-250, avoid-list): passed. Do not list length as an issue.
+> وقتی در را باز کرد، دنیای جدیدی پر از موجودات مهربان و گیاهان شگفت‌انگیز به رویش گشوده شد. آوا با چشمان درخشان به اطراف نگاه کرد و از این کشف جدیدش بسیار هیجان‌زده شد. او فهمید که کنجکاوی همیشه می‌تواند ما را به ماجراجویی‌های جالب هدایت کند.
+>
+> Automatic checks (length 247 words for 200-250, avoid-list): passed. Do not list length as an issue.
 
 *(also received the message from **Storyteller** shown above)*
 
 **Editor replied:**
 
-**Verdict:** `revise` · scores: age_fit 5, requirements 4, coherence 5, literary_quality 5, safety 5, personalization 2
-**Summary:** The read-aloud version maintains the core elements of the approved story but lacks deeper personalization of the child, which is a major issue.
-**Issues:**
-- [personalization] «whole story» — The child's interests are mentioned but not deeply integrated into the plot. → **fix:** Incorporate specific interests or actions of the child that influence the story's events.
+**Verdict:** `approve` · scores: age_fit 5, requirements 5, coherence 5, literary_quality 5, safety 5, personalization 5
+**Summary:** The Storyteller's version successfully preserves the approved story's plot, characters, and moral while enhancing the read-aloud experience with engaging dialogue and expressions.
 <details><summary>checklist</summary>
 
-1. Requirements: PASS - The story includes the main elements of the approved story. 2. Age Fit: PASS - The vocabulary and sentence length are appropriate for children. 3. Coherence: PASS - The story has a clear beginning, middle, and end. 4. Literary Quality: PASS - The language is engaging and vivid. 5. Safety: PASS - There are no safety issues present. 6. Personalization: FAIL - The child’s interests are mentioned but not deeply integrated into the plot.
+1. PASS - The story retains the original plot and characters.  
+2. PASS - The moral is present but not explicitly announced; it is implied through dialogue.  
+3. PASS - The story has a clear opening, development, problem, climax, and resolution.  
+4. PASS - The language is engaging and suitable for reading aloud.  
+5. PASS - There are no safety issues present.  
+6. PASS - The child's interests are integrated into the plot, as she loves exploring her garden.
 
 </details>
 
-**➜ Coordinator decision:** narration_attempt=0, approved=True, words=225, editor_verdict=revise
+**➜ Coordinator decision:** narration_attempt=0, approved=True, words=247, editor_verdict=approve
 
 ## Result
 
 ```json
 {
   "story_id": "extra_minimal",
-  "title": "تغییر زیبا با آوا",
-  "story": "گوش کن، می‌خواهم قصه‌ای برایت بگویم…\n\nدر یک باغ آفتابی و پر از گل‌های رنگارنگ، آوا یک کرم ابریشم کوچک و قشنگ پیدا کرد. «وای! چقدر زیباست!» آوا با شوق گفت. او تصمیم گرفت آن را به خانه ببرد و از آن با عشق مراقبت کند. هر روز آوا برگ‌های تازه به او می‌داد و با دقت تماشا می‌کرد که کرم ابریشم چقدر بزرگ می‌شود. «چقدر تو را دوست دارم!» آوا با لبخند گفت.\n\nیک روز، کرم ابریشم شروع به درست کردن پیله‌ای نرم و زیبا کرد. آوا نگران شد و گفت: «ای کاش زودتر بیرون بیایی!» او می‌دانست که باید صبر کند. هر روز به پیله نزدیک می‌شد و با دلش برای کرم ابریشم دعا می‌کرد. «حالا باید صبر کنم و ببینم چه اتفاقی می‌افتد…»\n\nچند روز بعد، ناگهان صدای تق‌تق پیله را شنید. پیله شکسته شد و یک پروانه زیبا و رنگارنگ از آن بیرون آمد! آوا با چشمان درخشان گفت: «وای! تو چقدر زیبا هستی!» قلب آوا از خوشحالی پر شد و او نمی‌توانست باور کند که این همه زیبایی را خودش ایجاد کرده است.\n\nآوا فهمید که تغییر می‌تواند زیبا باشد. او با لبخند به پروانه نگاه کرد و احساس کرد که در دلش دنیایی از شادی و امید وجود دارد. آوا در باغش نشسته بود و با پروانه بازی می‌کرد، و این لحظه را برای همیشه در خاطرش نگه می‌داشت.",
-  "moral": "تغییر می‌تواند زیبا باشد.",
+  "title": "ماجرای کلید آوا",
+  "story": "گوش کن، می‌خواهم قصه‌ای برایت بگویم…\n\nآوا در باغ رنگارنگش بازی می‌کرد. باغی پر از پروانه‌های زیبا و گل‌های شاداب. آوا با خوشحالی گفت: «بیا، پروانه‌ها! بیایید با هم بازی کنیم!» او عاشق کشف کردن و جست‌وجو در گوشه و کنار باغ بود. هر روز چیزی جدید پیدا می‌کرد.\n\nیک روز، وقتی آوا سرگرم بازی بود، ناگهان چیزی درخشان زیر یک گل توجهش را جلب کرد. او با دقت خم شد و گفت: «وای! چه چیزی زیر این گل است؟» و یک کلید کوچک و درخشان را پیدا کرد. آوا با شگفتی فکر کرد: «این کلید چه چیزی را باز می‌کند؟» کنجکاوی‌اش بیشتر شد و تصمیم گرفت راز کلید را کشف کند.\n\nآوا به جست‌وجو در باغ ادامه داد و گفت: «باید درب یا قفلی پیدا کنم که این کلید به آن بخورد!» او هر درخت و بوته‌ای را بررسی کرد، اما چیزی پیدا نکرد. «چرا هیچ‌کس در این باغ قفل ندارد؟»\n\nتا اینکه ناگهان، در پایه یکی از درختان بزرگ، آوا یک در کوچک دید. قلبش تند تند می‌زد! «این در! درست در اندازه کلید من است!» آوا با دقت کلید را در قفل گذاشت و آن را چرخاند. در با صدای خفیفی باز شد…\n\nوقتی در را باز کرد، دنیای جدیدی پر از موجودات مهربان و گیاهان شگفت‌انگیز به رویش گشوده شد. آوا با چشمان درخشان به اطراف نگاه کرد و با هیجان گفت: «وای، چه دنیای زیبایی! من عاشق اینجا هستم!» او فهمید که کنجکاوی همیشه می‌تواند ما را به ماجراجویی‌های جالب هدایت کند.",
+  "moral": "کنجکاوی می‌تواند به ما دنیای جدیدی نشان دهد.",
   "age_range": "3-5"
 }
 ```
-path: draft0:revise → draft1:approved → narration0:approved · calls 6
+path: draft0:approved → narration0:approved · calls 4

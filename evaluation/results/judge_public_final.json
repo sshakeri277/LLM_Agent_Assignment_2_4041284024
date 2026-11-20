@@ -1,23 +1,23 @@
 {
   "judge_model": "gpt-4.1",
-  "mean_total": 92.0,
+  "mean_total": 92.5,
   "mean_by_criterion": {
-    "personalization": 17.9,
-    "constraints": 14.8,
-    "coherence": 13.7,
-    "age_fit": 14.7,
+    "personalization": 18.3,
+    "constraints": 14.4,
+    "coherence": 14.1,
+    "age_fit": 14.4,
     "safety": 10.0,
-    "creativity": 7.2,
+    "creativity": 7.1,
     "persian_quality": 4.9,
     "read_aloud": 4.3
   },
   "stories": [
     {
       "story_id": "public_01",
-      "total": 94,
+      "total": 91,
       "scores": {
         "personalization": 19,
-        "constraints": 15,
+        "constraints": 12,
         "coherence": 14,
         "age_fit": 15,
         "safety": 10,
@@ -26,22 +26,22 @@
         "read_aloud": 4
       },
       "format": 5,
-      "words": 405,
+      "words": 374,
       "length_range": [
         400,
         500
       ],
       "age_range_ok": true,
-      "weakness": "Creativity—the plot is safe and familiar, lacking a surprising twist or particularly memorable moment.",
-      "justification": "Personalization is strong: the story uses آراد's name, age, and interests (space, dinosaurs), and his favorite character (ربات مهربان) is present and active. آراد is the main actor and solves the problem. Constraints are well met: the theme (friendship/cooperation), moral (asking for help isn't weakness), setting (space station), must-includes (hopeful ending, small dinosaur), and avoids (no death, fear, violence) are all respected. Length is within target. Coherence is good: clear beginning, problem (داینی lost), climax (sending signal), and resolution (reunion). Age fit is appropriate: vocabulary and sentence structure are suitable for a 7-year-old. Safety is excellent: no dangerous content, positive message. Creativity is decent: the combination of a space station, robot, and dinosaur is engaging, though the plot is somewhat conventional. Persian quality is high: natural, fluent, and correct language. Read-aloud quality is good: warm tone, some dialogue, and rhythm, though could use more vivid dialogue for oral performance."
+      "weakness": "Too short; lacks some detail and depth in the climax.",
+      "justification": "Personalization is strong: the story uses آراد's name, age-appropriate interests (space, dinosaurs), and his favorite character (kind robot) as central elements. آراد is proactive and solves the problem. Constraints: The theme (friendship/cooperation), moral (asking for help isn't weakness), setting (space station), and must-includes (hopeful ending, small dinosaur) are all present. Avoided items (death, fear, violence) are respected. However, the story is about 75 words short of the lower bound, which is a notable miss. Coherence: The plot is clear, with a problem, teamwork, climax, and resolution. Age fit: Language and complexity are suitable for a 7-year-old. Safety: No inappropriate content. Creativity: The story is pleasant but not highly original; the solution (using a robot's tool and teamwork) is standard. Persian quality: The text is natural and fluent, with good punctuation. Read-aloud: The tone is warm and dialogue is natural, but rhythm could be more engaging. Biggest weakness: The story is too short and could use more detail or a richer climax."
     },
     {
       "story_id": "public_02",
-      "total": 92,
+      "total": 96,
       "scores": {
-        "personalization": 16,
+        "personalization": 19,
         "constraints": 15,
-        "coherence": 14,
+        "coherence": 15,
         "age_fit": 15,
         "safety": 10,
         "creativity": 7,
@@ -49,67 +49,21 @@
         "read_aloud": 5
       },
       "format": 5,
-      "words": 236,
+      "words": 228,
       "length_range": [
         200,
         250
       ],
       "age_range_ok": true,
-      "weakness": "Nika is not the main problem-solver; the sea turtle proposes the solution.",
-      "justification": "Personalization: The story uses the child's name, age, and interests (sea turtles, colorful fish, ocean) well. Nika is the main character and helps solve the problem, but the sea turtle 'Tusha' provides the main solution, so Nika is not fully the agent. Constraints: All must-includes are present (sea turtle, simple solution for cleaning the sea), the theme and setting are correct, and the length is within range. Coherence: The story has a clear beginning, problem (dirty sea), climax (gathering friends to clean), and resolution. Age fit: Vocabulary and sentence structure are very simple and suitable for a 5-year-old. Safety: No violence or fear, positive message. Creativity: The idea of cleaning the sea as a game with bubbles and nets is cute, but not highly original. Persian quality: The language is natural and fluent, with correct punctuation. Read aloud: The tone is warm and inviting, with good rhythm and dialogue."
+      "weakness": "Creativity—the solution and plot are familiar and could be more original.",
+      "justification": "Personalization: The story uses the child's name, age, and interests (sea turtles, colorful fish, ocean) well, and Nika is the main problem-solver. Constraints: All must-includes (turtle, simple solution for cleaning the sea), theme (environmental care), setting (underwater city), and length are met. Coherence: The story has a clear beginning, problem, solution, and resolution, with logical progression. Age fit: Vocabulary and sentence structure are very simple and suitable for a 5-year-old. Safety: No violence or unsafe content; positive, empowering message. Creativity: The plot is somewhat standard for environmental stories, but the underwater city and teamwork add some freshness. Persian quality: The language is natural, fluent, and not translation-like. Read aloud: The story has a warm tone, some sound effects, and simple dialogue, making it pleasant to read aloud."
     },
     {
       "story_id": "public_03",
-      "total": 94,
+      "total": 90,
       "scores": {
         "personalization": 19,
-        "constraints": 15,
-        "coherence": 14,
-        "age_fit": 15,
-        "safety": 10,
-        "creativity": 7,
-        "persian_quality": 5,
-        "read_aloud": 4
-      },
-      "format": 5,
-      "words": 528,
-      "length_range": [
-        500,
-        600
-      ],
-      "age_range_ok": true,
-      "weakness": "Creativity—the story is a bit conventional and could use a more original twist or memorable character moments.",
-      "justification": "Personalization is strong: the story centers on Tara, a 9-year-old inventor interested in robots and technology, and she is the active problem-solver. Constraints are well met: the theme (responsible technology use), setting (lab), must-include (robot makes and fixes mistake), and avoidance of violence are all respected; length is within range. Coherence is good: clear beginning, problem (robot's mistake), climax (second mistake), and resolution (Tara reprograms and they succeed). Age fit is appropriate: vocabulary and sentence structure are suitable for a 9-year-old. Safety is excellent: no violence, fear, or dangerous behavior; positive, accurate message. Creativity is moderate: the plot is somewhat predictable, but the robot's learning process and teamwork are engaging. Persian quality is high: natural, fluent, and idiomatic language with correct punctuation. Read-aloud quality is good: warm tone, some dialogue, and a rhythmic flow, though dialogue could be more varied."
-    },
-    {
-      "story_id": "public_04",
-      "total": 88,
-      "scores": {
-        "personalization": 15,
-        "constraints": 13,
-        "coherence": 14,
-        "age_fit": 15,
-        "safety": 10,
-        "creativity": 6,
-        "persian_quality": 5,
-        "read_aloud": 5
-      },
-      "format": 5,
-      "words": 282,
-      "length_range": [
-        300,
-        350
-      ],
-      "age_range_ok": true,
-      "weakness": "Slightly under target length and lacks deep personalization or originality.",
-      "justification": "Personalization is decent: the child's name, age, and interests (animals, rabbit, bear) are present, and Sam is the protagonist who solves the problem. However, Sam's interests don't deeply shape the plot beyond animal choice. Constraints: Theme (generosity/overcoming jealousy), setting (colorful forest), must-includes (rabbit, bear, hopeful ending) are all present, but the story is slightly under the requested word count. Coherence: Clear beginning, problem (jealousy), climax (sharing), and resolution. Age fit: Vocabulary and sentence structure are appropriate for a 6-year-old. Safety: No violence or inappropriate content. Creativity: The plot is familiar and safe, not especially original, but pleasant. Persian quality: Language is natural and fluent, with good punctuation. Read aloud: Warm tone, some dialogue, good rhythm for reading aloud."
-    },
-    {
-      "story_id": "public_05",
-      "total": 91,
-      "scores": {
-        "personalization": 19,
-        "constraints": 15,
+        "constraints": 14,
         "coherence": 14,
         "age_fit": 13,
         "safety": 10,
@@ -118,17 +72,40 @@
         "read_aloud": 4
       },
       "format": 5,
-      "words": 483,
+      "words": 632,
       "length_range": [
-        400,
-        500
+        500,
+        600
       ],
       "age_range_ok": true,
-      "weakness": "Some sentences and vocabulary feel slightly translation-like or less natural in Persian; could improve warmth and flow.",
-      "justification": "Personalization is strong: the story centers on Kian, his love for football and teamwork, and he is the main actor in solving the problem. Constraints are well met: the theme (cooperation, acceptance, fair loss), setting (school football match), and must-include (team with different abilities) are all present, and the story avoids humiliating the losing team. Length is within the target. Coherence is good: clear beginning, problem (stronger opponent, initial struggle), climax (Kian's leadership and team cooperation), and resolution (loss but with sportsmanship and learning). Age fit is appropriate: vocabulary and sentence structure are suitable for 8-year-olds, though a few English words (\"excitement\") could be replaced. Safety is excellent: no violence or humiliation, positive message. Creativity is moderate: the plot is familiar but well-executed, with some memorable moments. Persian quality is mostly natural, but a few phrases feel slightly translation-like or awkward. Read-aloud quality is good: dialogue and rhythm are present, but could be warmer and more engaging in places."
+      "weakness": "Slight lack of narrative tension and originality in the plot's resolution.",
+      "justification": "Personalization is strong: the story centers on Tara, a 9-year-old girl, and her interests in robots, invention, and technology are woven into the plot. She is the main actor and problem-solver. Constraints are mostly met: the theme (responsibility in technology), setting (invention lab), and must-include (robot makes and fixes a mistake) are present; violence is avoided. The word count is slightly over but within a reasonable margin. Coherence is good: the story has a clear beginning, problem (robot's mistake), climax (turning mistake into a game), and resolution (sharing and learning). Age fit is solid: vocabulary and sentence structure are appropriate for 9-year-olds, though a few sentences are a bit long. Safety is excellent: no violence, fear, or dangerous behavior; the message is positive. Creativity is above average: the idea of turning a mistake into a collaborative game is engaging, though not highly original. Persian quality is good, with natural language and correct punctuation, though a few phrases are slightly formal. Read-aloud quality is strong: the narrative voice is warm, and dialogue is natural, though rhythm could be improved in places. The biggest weakness is a slight lack of narrative tension and originality in the plot's resolution."
     },
     {
-      "story_id": "public_06",
+      "story_id": "public_04",
+      "total": 91,
+      "scores": {
+        "personalization": 16,
+        "constraints": 15,
+        "coherence": 14,
+        "age_fit": 15,
+        "safety": 10,
+        "creativity": 7,
+        "persian_quality": 5,
+        "read_aloud": 4
+      },
+      "format": 5,
+      "words": 311,
+      "length_range": [
+        300,
+        350
+      ],
+      "age_range_ok": true,
+      "weakness": "Personalization—the story could better reflect Sam's unique personality and make the rabbit more central.",
+      "justification": "Personalization is good: Sam's name, age, and interests (animals, rabbits, bears) are present, and Sam is the main actor who solves the problem. However, the favorite character (rabbit) is not as central as Sam, and Sam's unique personality is not deeply explored. Constraints are well met: theme (generosity, overcoming jealousy), setting (colorful forest), must-includes (rabbit, bear, hopeful ending), and length are all respected. Coherence is strong: clear beginning, problem (bear's jealousy), climax (gift to bear), and resolution (bear shares food). Age fit is appropriate: simple sentences, accessible vocabulary for a 6-year-old. Safety is high: no violence or fear, positive message. Creativity is moderate: the idea of sharing food to overcome jealousy is familiar, but the kitchen scene and animal characters add charm. Persian quality is good: natural, fluent, and correct. Read-aloud quality is strong: warm tone, some sound effects, and dialogue, though could be more rhythmic."
+    },
+    {
+      "story_id": "public_05",
       "total": 95,
       "scores": {
         "personalization": 19,
@@ -136,88 +113,111 @@
         "coherence": 14,
         "age_fit": 15,
         "safety": 10,
-        "creativity": 8,
-        "persian_quality": 5,
-        "read_aloud": 4
-      },
-      "format": 5,
-      "words": 449,
-      "length_range": [
-        350,
-        450
-      ],
-      "age_range_ok": true,
-      "weakness": "Somewhat conventional plot; magical elements could be more inventive.",
-      "justification": "Personalization is strong: Yalda's name, age, and interests (cooking, sweets, fantasy creatures) are central, and she is the main actor, teaching and collaborating with the dragon. Constraints are well met: the theme (patience and practice), setting (magical kitchen), must-include (small dragon baking cake), and avoids (no dangerous fire or scary events) are all respected. The story fits the requested length. Coherence is good: clear beginning, problem (dragon's inexperience), climax (baking together), and resolution (success and learning). Age fit is appropriate: vocabulary and sentence structure are suitable for a 7-year-old. Safety is excellent: no violence, fear, or dangerous behavior; positive, safe message. Creativity is solid: the magical kitchen and dragon are engaging, though the plot is somewhat conventional. Persian quality is high: natural, fluent, and idiomatic language with correct punctuation. Read-aloud quality is good: warm tone, some sound effects, and natural dialogue, though rhythm could be a bit more playful. Biggest weakness: the story, while charming, follows a familiar pattern and could be more original in its problem or magical elements."
-    },
-    {
-      "story_id": "public_07",
-      "total": 81,
-      "scores": {
-        "personalization": 15,
-        "constraints": 15,
-        "coherence": 11,
-        "age_fit": 14,
-        "safety": 10,
         "creativity": 7,
-        "persian_quality": 5,
-        "read_aloud": 4
-      },
-      "format": 0,
-      "words": 610,
-      "length_range": [
-        500,
-        600
-      ],
-      "age_range_ok": true,
-      "weakness": "Lack of a strong central problem or climax; Raha is curious but not truly challenged or changed.",
-      "justification": "Personalization: The story uses Raha's name, age-appropriate interests (history, travel, discovery), and makes her the active protagonist who asks questions and learns. However, her actions are mostly reactive (asking, listening) rather than truly solving a problem or driving the plot with agency. Constraints: The theme (curiosity, respect for cultural differences), setting (historic city), and must-includes (asking questions, learning from the past) are all present. The story avoids presenting fictional events as historical fact. Length is slightly over but acceptable. Coherence: The story has a clear beginning, a sequence of events, and a gentle resolution, but lacks a strong central problem or climax; it's more episodic than tightly plotted. Age Fit: Vocabulary and sentence structure are suitable for a 10-year-old, with some challenging but accessible words. Safety: No violence, fear, or inappropriate content; positive, safe, and educational. Creativity: The idea of a magical journey is familiar, but the inclusion of market scenes, games, and museum visits adds some freshness. Persian Quality: The language is natural, fluent, and idiomatic, with correct punctuation. Read Aloud: The tone is warm and inviting, with some dialogue and good rhythm, though more varied dialogue could enhance it."
-    },
-    {
-      "story_id": "public_08",
-      "total": 94,
-      "scores": {
-        "personalization": 19,
-        "constraints": 15,
-        "coherence": 14,
-        "age_fit": 15,
-        "safety": 10,
-        "creativity": 7,
-        "persian_quality": 5,
-        "read_aloud": 4
-      },
-      "format": 5,
-      "words": 237,
-      "length_range": [
-        200,
-        250
-      ],
-      "age_range_ok": true,
-      "weakness": "Creativity—the plot is conventional and could be more original or memorable.",
-      "justification": "Personalization is strong: the story uses Amirali's name, age-appropriate interests (train, station, travel), and he is the active problem-solver helping his new friend. Constraints are well met: the theme (helping a friend, coping with new experiences), setting (train journey), required elements (new friend, simple travel issue), and length are all present. Coherence is good: clear beginning (excitement), problem (Sara's worry), climax (delay), and resolution (Amirali comforts her). Age fit is appropriate: simple vocabulary and sentences, gentle tone. Safety is excellent: no violence or fear, positive message. Creativity is moderate: the story is sweet but follows a familiar pattern. Persian quality is high: natural, fluent, and correct. Read-aloud quality is good: warm tone, some dialogue, and rhythm, though could use more vivid dialogue or sound effects for engagement."
-    },
-    {
-      "story_id": "public_09",
-      "total": 96,
-      "scores": {
-        "personalization": 19,
-        "constraints": 15,
-        "coherence": 14,
-        "age_fit": 15,
-        "safety": 10,
-        "creativity": 8,
         "persian_quality": 5,
         "read_aloud": 5
       },
       "format": 5,
-      "words": 454,
+      "words": 406,
       "length_range": [
         400,
         500
       ],
       "age_range_ok": true,
-      "weakness": "Creativity—while charming, the story follows a familiar pattern and could use a more unique twist or memorable magical element.",
-      "justification": "Personalization is strong: the story centers on مهسا, her interests (flowers, plants, magic), and she is the active problem-solver. Constraints are well met: the theme (responsibility), setting (magical garden), must-include (a plant that grows with care), and avoidance of unrealistic nature messages are respected. Coherence is good: clear beginning, problem (wilted plant), climax (plant asks for more sun), resolution (plant thrives), and ending (shared joy). Age fit is appropriate: vocabulary and sentence structure suit an 8-year-old. Safety is excellent: no violence or fear, positive message. Creativity is solid: the talking plant and magical garden are engaging, though not highly original. Persian quality is high: natural, fluent, and idiomatic language. Read-aloud quality is good: warm tone, some dialogue, and rhythmic narration."
+      "weakness": "Creativity—the story follows a familiar pattern without surprising twists or highly original elements.",
+      "justification": "Personalization is strong: Kian is the protagonist, his interests (football, teamwork) are central, and he drives the solution. Constraints are well met: the theme (cooperation, accepting differences, fair loss), setting (school football match), and must-include (team with different abilities) are all present; the story avoids humiliating the losing team and fits the word count. Coherence is good: clear beginning, problem (losing), climax (teamwork leads to a goal), and resolution (accepting loss, celebrating teamwork). Age fit is appropriate: vocabulary and sentence structure suit an 8-year-old. Safety is excellent: no violence, humiliation, or false facts; positive message. Creativity is moderate: the plot is familiar, but the execution is warm and engaging. Persian quality is high: natural, fluent, and idiomatic. Read-aloud quality is strong: lively narration, some dialogue, and good rhythm."
+    },
+    {
+      "story_id": "public_06",
+      "total": 94,
+      "scores": {
+        "personalization": 19,
+        "constraints": 15,
+        "coherence": 14,
+        "age_fit": 14,
+        "safety": 10,
+        "creativity": 8,
+        "persian_quality": 5,
+        "read_aloud": 4
+      },
+      "format": 5,
+      "words": 372,
+      "length_range": [
+        350,
+        450
+      ],
+      "age_range_ok": true,
+      "weakness": "Creativity—the plot is a bit conventional despite the magical elements.",
+      "justification": "Personalization is strong: the story uses Yalda's name, age-appropriate interests (cooking, sweets, fantasy creatures), and she is the main problem-solver, guiding Dariush the dragon. Constraints are well met: the theme (patience and practice), setting (magical kitchen), must-include (small dragon baking cake), and avoids (no dangerous fire or risky behavior) are all respected. The story is coherent, with a clear beginning, problem (baking mishaps), climax (almost giving up), and resolution (success through patience). Age fit is good: vocabulary and sentence structure are suitable for 7-year-olds. Safety is excellent: no fear, danger, or humiliation, and the message is positive. Creativity is solid: the magical kitchen and dragon are engaging, though the plot is somewhat familiar. Persian quality is high: the language is natural and fluent, with correct punctuation. Read-aloud quality is good, with a warm tone and some dialogue, though more varied dialogue could enhance it."
+    },
+    {
+      "story_id": "public_07",
+      "total": 91,
+      "scores": {
+        "personalization": 19,
+        "constraints": 14,
+        "coherence": 14,
+        "age_fit": 13,
+        "safety": 10,
+        "creativity": 7,
+        "persian_quality": 5,
+        "read_aloud": 4
+      },
+      "format": 5,
+      "words": 618,
+      "length_range": [
+        500,
+        600
+      ],
+      "age_range_ok": true,
+      "weakness": "Creativity—the story is pleasant but follows a familiar pattern without surprising twists or highly original elements.",
+      "justification": "Personalization is strong: the story is about Raha, her interests (history, travel, discovery) are central, and she is the active protagonist, asking questions and learning. Constraints are mostly met: the theme (curiosity and respect for cultural differences), setting (imaginary trip to a historical city), and must-includes (asking questions, learning from the past) are present. No fabricated historical events are presented as fact. The length is within the requested range. Coherence is good: clear beginning, problem (desire to learn), climax (discovering meaning in art and culture), and resolution (understanding the value of respect and learning). Age fit is appropriate: vocabulary and sentence structure are suitable for a 10-year-old, though some sentences are a bit long. Safety is excellent: no violence or inappropriate content, and the message is positive. Creativity is moderate: the idea of a fantasy trip is common, but the execution is warm and engaging. Persian quality is good, with natural language and correct punctuation. Read-aloud quality is strong, with a warm tone and some dialogue, though more vivid dialogue could enhance it."
+    },
+    {
+      "story_id": "public_08",
+      "total": 95,
+      "scores": {
+        "personalization": 19,
+        "constraints": 15,
+        "coherence": 14,
+        "age_fit": 15,
+        "safety": 10,
+        "creativity": 7,
+        "persian_quality": 5,
+        "read_aloud": 5
+      },
+      "format": 5,
+      "words": 198,
+      "length_range": [
+        200,
+        250
+      ],
+      "age_range_ok": true,
+      "weakness": "Creativity—the story is pleasant but not particularly original or surprising.",
+      "justification": "Personalization is strong: Amirali is the main character, his interests (train, station, travel) are central, and he actively helps his new friend. Constraints are well met: the theme (helping a friend, coping with new experiences), setting (train journey), must-includes (new friend, simple travel problem) are all present, and the word count is close to target. Coherence is good: clear beginning, problem (Arash's worry), climax (playing together), and resolution (Arash feels braver). Age fit is appropriate: simple vocabulary and sentences for a 5-year-old. Safety is excellent: no violence or fear, positive message. Creativity is moderate: the story is sweet but follows a familiar pattern. Persian quality is high: natural, fluent, and correct. Read-aloud quality is good: warm tone, simple dialogue, and rhythm."
+    },
+    {
+      "story_id": "public_09",
+      "total": 87,
+      "scores": {
+        "personalization": 15,
+        "constraints": 14,
+        "coherence": 14,
+        "age_fit": 14,
+        "safety": 10,
+        "creativity": 6,
+        "persian_quality": 5,
+        "read_aloud": 4
+      },
+      "format": 5,
+      "words": 413,
+      "length_range": [
+        400,
+        500
+      ],
+      "age_range_ok": true,
+      "weakness": "Lack of magical elements in the 'magical garden' setting; missed opportunity for creative, vivid magic.",
+      "justification": "Personalization is good: the story uses Mahsa's name, age-appropriate actions, and her interests (flowers, plants, magic) are central. However, the magical aspect is underdeveloped—the garden is called 'magical' but no magical events or features are described, missing an opportunity to make the setting more vivid and unique for Mahsa. Constraints are mostly met: the theme (care and responsibility), setting (magical garden), and must-include (a plant that grows with care) are present. The story avoids unrealistic nature messages. Coherence is strong: clear beginning, problem (wilted plant), climax (Mahsa forgets to care), and resolution. Age fit is good: vocabulary and sentence structure are suitable for 8. Safety is excellent: no violence or dangerous behavior, and the message is positive. Creativity is moderate: the plot is familiar and the magical setting is not fully realized. Persian quality is high: natural, fluent, and correct. Read-aloud quality is good: warm tone, some dialogue, and rhythm, though more vivid magical descriptions would help."
     },
     {
       "story_id": "public_10",
@@ -233,14 +233,14 @@
         "read_aloud": 4
       },
       "format": 5,
-      "words": 481,
+      "words": 496,
       "length_range": [
         450,
         550
       ],
       "age_range_ok": true,
-      "weakness": "Dialogue and read-aloud rhythm could be more vivid and engaging.",
-      "justification": "Personalization is strong: the story centers on باران, her interests (mystery, detective work, maps) drive the plot, and she is the main solver. Constraints are well met: the theme (honesty, reasoning), setting (imaginary city), and must-include (safe, understandable mystery) are present; no violence or fear. The length is within range. Coherence is good: clear beginning, problem (the map), clues, climax (finding the box), and resolution. Age fit is appropriate: vocabulary and sentence structure suit a 9-year-old. Safety is excellent: no dangerous content, positive teamwork and honesty message. Creativity is solid: the book/library/map puzzle is engaging, though not highly original. Persian quality is high: natural, fluent, correct language. Read-aloud quality is good: warm tone, some dialogue, but could use more vivid dialogue and rhythm for maximum engagement."
+      "weakness": "Supporting characters lack depth and dialogue could be richer.",
+      "justification": "Personalization is strong: the child's name, age, and interests (mystery, detective work, maps) are central, and Baran is the main solver. Constraints are well met: the theme (honesty, observation, reasoning), setting (imaginary city), and must/avoid items are respected, and the length is within range. Coherence is good: clear beginning, problem (lost map), clues, climax (solving the riddle), and resolution. Age fit is appropriate: vocabulary and sentence structure suit a 9-year-old. Safety is excellent: no violence or fear, positive message. Creativity is solid: the 'public good' twist on the treasure is fresh, though the characters could be more distinctive. Persian quality is high: natural, fluent, and idiomatic. Read-aloud quality is good: warm tone, some dialogue, and rhythm, though more dialogue could enhance engagement."
     }
   ]
 }

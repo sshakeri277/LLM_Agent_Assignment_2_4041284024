@@ -1,7 +1,8 @@
 """Settings from environment variables (and an optional .env file); the model client.
 
-Provider choice: AvalAI when `AVALAI_API_KEY` is set (the assignment's setup, and what an evaluator's key will
-use); otherwise OpenAI directly with `OPENAI_API_KEY`. Both speak the OpenAI Chat Completions API.
+Provider: AvalAI, as the assignment requires (`AVALAI_API_KEY`, `AVALAI_BASE_URL`, `AVALAI_MODEL`). OpenAI directly
+is available only on explicit opt-in (`LLM_PROVIDER=openai` with `OPENAI_API_KEY`); an OpenAI key alone is never
+used in place of the AvalAI key. Both speak the OpenAI Chat Completions API.
 """
 from __future__ import annotations
 
@@ -66,12 +67,12 @@ def load_dotenv(path: str, env: MutableMapping[str, str]) -> None:
 def load_settings(env: Optional[Dict[str, str]] = None, **overrides) -> Settings:
     env = os.environ if env is None else env
     s = Settings()
-    if not str(env.get("AVALAI_API_KEY") or "").strip() and str(env.get("OPENAI_API_KEY") or "").strip():
+    if str(env.get("LLM_PROVIDER") or "").strip().lower() == "openai":
         s.provider = "openai"
-        s.api_key = env["OPENAI_API_KEY"].strip()
+        s.api_key = str(env.get("OPENAI_API_KEY") or "").strip()
         s.base_url = (env.get("OPENAI_BASE_URL") or OPENAI_BASE_URL).strip()
         s.model = (env.get("OPENAI_MODEL") or env.get("AVALAI_MODEL") or DEFAULT_MODEL).strip()
-        env = {k: v for k, v in env.items() if k not in ("AVALAI_BASE_URL", "AVALAI_MODEL")}
+        env = {k: v for k, v in env.items() if k not in ("AVALAI_API_KEY", "AVALAI_BASE_URL", "AVALAI_MODEL")}
     for var, (name, typ) in _ENV.items():
         raw = env.get(var)
         if raw is None or str(raw).strip() == "":
@@ -87,6 +88,14 @@ def load_settings(env: Optional[Dict[str, str]] = None, **overrides) -> Settings
     s.concurrency = max(1, s.concurrency)
     s.base_url = s.base_url.rstrip("/")
     return s
+
+
+def missing_key_message(settings: Settings) -> str:
+    if settings.provider == "openai":
+        return "OPENAI_API_KEY is not set (LLM_PROVIDER=openai). Set it in the environment or in .env."
+    return ("AVALAI_API_KEY is not set. Set your AvalAI key in the environment "
+            "(Linux/macOS: export AVALAI_API_KEY=\"...\"; Windows: set AVALAI_API_KEY=...) or in a .env file next "
+            "to main.py (see .env.example). An OPENAI_API_KEY is not used unless LLM_PROVIDER=openai is set.")
 
 
 def create_model_client(settings: Settings, role: str):

@@ -13,15 +13,20 @@ import logging
 import os
 import sys
 import time
+import warnings
 from typing import Callable, Dict, List, Optional
 
 from story_system.agents import create_author, create_editor, create_storyteller
-from story_system.config import Settings, create_model_client, load_dotenv, load_settings
+from story_system.config import Settings, create_model_client, load_dotenv, load_settings, missing_key_message
 from story_system.request import InputError, StoryRequest, age_range, load_requests
 from story_system.transcript import StoryTranscript, new_run_dir
 from story_system.workflow import StoryResult, StoryWorkflow
 
 log = logging.getLogger("story_system.main")
+# Harmless library notices that would clutter stderr on every call: AvalAI reports the dated model name
+# (gpt-4o-mini-2024-07-18), and AutoGen's structured-output result triggers a pydantic serializer note.
+warnings.filterwarnings("ignore", message="Resolved model mismatch")
+warnings.filterwarnings("ignore", message="Pydantic serializer warnings")
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 
@@ -124,7 +129,7 @@ def main(argv: Optional[List[str]] = None, client_factory: Callable = create_mod
 
     save()  # a valid output file exists from the start
     if not settings.api_key:
-        log.error("no API key: set AVALAI_API_KEY (or OPENAI_API_KEY) in the environment or in .env")
+        log.error("%s", missing_key_message(settings))
         return 2
 
     log_dir = "" if (args.log_dir or "").lower() == "none" else args.log_dir

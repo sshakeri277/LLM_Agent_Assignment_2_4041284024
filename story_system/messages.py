@@ -9,6 +9,11 @@ REPLY_AGAIN = ("Your previous reply could not be used. Reply again with your com
                "structured format.")
 
 
+def fill_fields(blank: List[str]) -> str:
+    return (f"Your reply left these required fields empty: {', '.join(blank)}. Reply again with the complete "
+            "answer and every field filled in.")
+
+
 def _bullets(items: List[str]) -> str:
     return "\n".join(f"- {i}" for i in items)
 

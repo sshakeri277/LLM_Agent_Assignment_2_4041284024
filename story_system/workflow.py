@@ -10,6 +10,10 @@
                      └──── one retry ◄──────────┤ revise
                                                 │ revise again ─► final = chosen draft (already approved text)
 
+If the Editor cannot answer (all retries failed), nothing is approved without it: the draft is marked
+"unreviewed", the loop stops, the best available (reviewed if possible) draft is output with approved=False,
+and an unchecked retelling is never used.
+
 Agents talk through AutoGen messages: the Editor receives the Author's own `StructuredMessage` and the Author
 receives the Editor's own review message. The Author and the Storyteller keep their conversation memory across
 rounds; the Editor starts each review fresh and is given its earlier issues to verify (with its old verdict in
@@ -52,12 +56,15 @@ class Version:
         return self.message.content
 
     def rank(self) -> Tuple:
-        """Best-version order: safe first, then right length, then the Editor's total, then the later round."""
-        safe = not any("avoid" in i for i in self.code_issues) and (self.review is None
-                                                                    or self.review.scores.clamped().safety >= 4)
+        """Best-version order: verified safe, then reviewed by the Editor, then right length, then the Editor's
+        total, then the later round. A draft the Editor could not review ranks below every reviewed draft."""
+        reviewed = self.review is not None
+        # "Safe" means verified safe: no avoid-list hit and an Editor safety score of at least 4.
+        safe = (not any("avoid" in i for i in self.code_issues) and reviewed
+                and self.review.scores.clamped().safety >= 4)
         length_ok = not any("words" in i for i in self.code_issues)
-        total = self.review.scores.total() if self.review else 0
-        return safe, length_ok, total, self.round
+        total = self.review.scores.total() if reviewed else 0
+        return safe, reviewed, length_ok, total, self.round
 
 
 @dataclass
@@ -101,8 +108,13 @@ class StoryWorkflow:
 
     async def _ask(self, agent: AssistantAgent, step: str, round_: int, task: Sequence[BaseChatMessage],
                    expected: type, code_checks: Optional[List[str]] = None) -> Optional[StructuredMessage]:
-        """Run one agent turn and return its structured reply (retrying invalid or failed replies)."""
+        """Run one agent turn and return its structured reply (retrying invalid or failed replies).
+
+        A reply with an empty required field (e.g. a blank moral) is retried; if every attempt is incomplete,
+        the last one that still has a story is returned and the coordinator fills the gap (see `_fill_fields`).
+        """
         pending: Sequence[BaseChatMessage] = task
+        incomplete_reply: Optional[StructuredMessage] = None
         for attempt in range(self.reply_retries + 1):
             started = time.monotonic()
             self.calls += 1
@@ -124,13 +136,23 @@ class StoryWorkflow:
                     await asyncio.sleep(self.retry_delay * (attempt + 1))
                 continue
             usage = reply.models_usage
+            blank = _blank_fields(reply.content)
+            if blank:
+                self._emit({"step": step, "agent": agent.name, "round": round_, "attempt": attempt + 1,
+                            "input": _texts(pending), "output": reply.content.model_dump(), "tokens": None,
+                            "seconds": round(time.monotonic() - started, 2),
+                            "error": f"incomplete reply: empty {', '.join(blank)}"})
+                if "story" not in blank:
+                    incomplete_reply = reply
+                pending = [TextMessage(source=COORDINATOR, content=messages.fill_fields(blank))]
+                continue
             self._emit({"step": step, "agent": agent.name, "round": round_, "attempt": attempt + 1,
                         "input": _texts(pending), "output": reply.content.model_dump(),
                         "tokens": {"prompt": usage.prompt_tokens, "completion": usage.completion_tokens}
                         if usage else None,
                         "seconds": round(time.monotonic() - started, 2), "code_checks": code_checks or []})
             return reply
-        return None
+        return incomplete_reply  # None, unless an incomplete reply with a story was received
 
     @staticmethod
     def _code_issues(text: str, req: StoryRequest, bounds: Tuple[int, int]) -> List[str]:
@@ -171,13 +193,18 @@ class StoryWorkflow:
                  draft_msg],
                 EditorReview, issues)
             review = review_msg.content if review_msg else None
-            approved = not issues and (review is None or _draft_ok(review, text))
+            # Only a draft the Editor actually reviewed can be approved. If the Editor failed (no reply after
+            # the retries), the draft stays unapproved and the loop stops: there is no feedback to revise from.
+            approved = review is not None and not issues and _draft_ok(review, text)
             versions.append(Version(round_, draft_msg, review, issues, approved))
-            result.path.append(f"draft{round_}:{'approved' if approved else 'revise'}")
+            state = "approved" if approved else ("unreviewed" if review is None else "revise")
+            result.path.append(f"draft{round_}:{state}")
             self._emit({"step": "decision", "round": round_, "approved": approved, "words": count_words(text),
                         "editor_verdict": review.verdict if review else None,
-                        "editor_total": review.scores.total() if review else None, "code_checks": issues})
-            if approved or round_ == self.max_revisions:
+                        "editor_total": review.scores.total() if review else None, "code_checks": issues,
+                        **({"reason": "the Editor did not reply; the draft is not approved"} if review is None
+                           else {})})
+            if approved or review is None or round_ == self.max_revisions:
                 break
             feedback: List[BaseChatMessage] = [review_msg] if review_msg else []
             feedback.append(TextMessage(source=COORDINATOR,
@@ -191,9 +218,13 @@ class StoryWorkflow:
         result.approved = chosen.approved
         result.revisions = len(versions) - 1
         result.title, result.moral, result.story = chosen.draft.title, chosen.draft.moral, chosen.draft.story
+        _fill_fields(result, req, versions)
         if not chosen.approved:
-            result.path.append(f"cap-reached:best=draft{chosen.round}")
-            self._emit({"step": "decision", "chosen": chosen.round, "reason": "revision cap reached; best version",
+            editor_failed = versions[-1].review is None
+            result.path.append(f"{'editor-unavailable' if editor_failed else 'cap-reached'}:best=draft{chosen.round}")
+            self._emit({"step": "decision", "chosen": chosen.round,
+                        "reason": "the Editor did not reply; best available version (not approved)" if editor_failed
+                        else "revision cap reached; best version",
                         "ranks": {v.round: list(v.rank()) for v in versions}})
 
         # 2) Storyteller narrates the chosen text; the Editor checks it ------------------------------
@@ -216,13 +247,19 @@ class StoryWorkflow:
                  narr_msg],
                 EditorReview, issues)
             check = check_msg.content if check_msg else None
-            ok = not issues and (check is None or _narration_ok(check, text))
-            result.path.append(f"narration{attempt}:{'approved' if ok else 'rejected'}")
+            # The retelling is used only if the Editor checked it; an unchecked version is never output.
+            ok = check is not None and not issues and _narration_ok(check, text)
+            state = "approved" if ok else ("unchecked" if check is None else "rejected")
+            result.path.append(f"narration{attempt}:{state}")
             self._emit({"step": "decision", "narration_attempt": attempt, "approved": ok,
                         "words": count_words(text), "code_checks": issues,
-                        "editor_verdict": check.verdict if check else None})
+                        "editor_verdict": check.verdict if check else None,
+                        **({"reason": "the Editor did not reply; the retelling is not used"} if check is None
+                           else {})})
             if ok:
                 result.story, result.narration_used = text, True
+                break
+            if check is None:  # no Editor feedback to retry with: keep the reviewed text
                 break
             pending = ([check_msg] if check_msg else []) + [
                 TextMessage(source=COORDINATOR, content=messages.renarrate_task(bounds, text, issues))]
@@ -255,7 +292,8 @@ def _is_live(issue: Issue, text: str) -> bool:
     return sum(w in words for w in quote) / len(quote) >= 0.8  # tolerate a slightly inexact quote
 
 
-_LENGTH_CLAIM = re.compile(r"\b(?:\d+\s*words?|word count|words? long|length|too short|too long)\b|تعداد کلمه",
+_LENGTH_CLAIM = re.compile(r"\b(?:\d+\s*words?|word (?:count|limit|range)|words? long|length|too short|too long)\b"
+                           r"|تعداد کلمه",
                            re.IGNORECASE)
 
 
@@ -284,6 +322,22 @@ def _narration_ok(check: EditorReview, text: str) -> bool:
     blocking = [i for i in live_majors(check, text) if i.criterion in NARRATION_CRITERIA]
     return (check.plot_preserved and check.ending_preserved and not check.unapproved_content
             and s.safety >= 4 and s.age_fit >= 3 and not blocking)
+
+
+def _blank_fields(content: Any) -> List[str]:
+    """Required text fields of a Author/Storyteller reply that are empty."""
+    names = [n for n in ("title", "moral", "story") if hasattr(content, n)]
+    return [n for n in names if not str(getattr(content, n) or "").strip()]
+
+
+def _fill_fields(result: StoryResult, req: StoryRequest, versions: List[Version]) -> None:
+    """Never output an empty title or moral: take it from another draft of the same story, else from the request."""
+    def first(*values: str) -> str:
+        return next((v.strip() for v in values if v and v.strip()), "")
+    later_first = list(reversed(versions))
+    result.title = first(result.title, *(v.draft.title for v in later_first),
+                         f"قصه‌ی {req.first_name}" if req.first_name else "", req.theme, "یک قصه‌ی تازه")
+    result.moral = first(result.moral, *(v.draft.moral for v in later_first), req.moral, req.theme)
 
 
 def _texts(msgs: Sequence[BaseChatMessage]) -> List[Dict[str, str]]:
