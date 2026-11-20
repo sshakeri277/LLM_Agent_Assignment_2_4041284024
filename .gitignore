@@ -1,0 +1,11 @@
+# secrets
+.env
+# local environment
+.venv/
+__pycache__/
+*.pyc
+# run artefacts (curated samples are committed under examples/ and logs/samples/)
+logs/run-*/
+output.json
+# course material
+*.pdf

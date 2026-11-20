@@ -1,0 +1,28 @@
+{
+  "story_id": "public_01",
+  "child": {
+    "first_name": "آراد",
+    "age": 7,
+    "interests": [
+      "فضا",
+      "دایناسورها"
+    ],
+    "favorite_character": "ربات مهربان",
+    "reading_level": "ابتدایی"
+  },
+  "story_request": {
+    "theme": "دوستی و همکاری",
+    "moral": "کمک خواستن نشانه ضعف نیست",
+    "setting": "یک ایستگاه فضایی",
+    "target_word_count": 450,
+    "must_include": [
+      "پایان امیدوارکننده",
+      "یک دایناسور کوچک"
+    ],
+    "avoid": [
+      "مرگ",
+      "ترس شدید",
+      "خشونت"
+    ]
+  }
+}
